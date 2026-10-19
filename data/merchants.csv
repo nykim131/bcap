@@ -1,0 +1,1001 @@
+merchant_id,name,raw_category,address,district,latitude,longitude
+MER-00001,Bella Italia Pasar Minggu,Trattoria,"Jl. Menteng Raya No.229, Jakarta Pusat",Jakarta Pusat,-6.208128,106.81045
+MER-00002,Nasi Goreng Pak Jatinegara,Indonesian,"Jl. Thamrin No.115, Jakarta Pusat",Jakarta Pusat,-6.177507,106.836996
+MER-00003,Sakura Cilandak,Sushi Bar,"Jl. Hayam Wuruk No.25, Jakarta Pusat",Jakarta Pusat,-6.17069,106.810433
+MER-00004,QuickBite Cideng,Fast Food,"Jl. Gajah Mada No.148, Jakarta Pusat",Jakarta Pusat,-6.198909,106.842018
+MER-00005,Seoul BBQ Pluit,Korean Restaurant,"Jl. Matraman Raya No.42, Jakarta Timur",Jakarta Timur,-6.232192,106.897605
+MER-00006,QuickBite Kemayoran,,"Jl. Yos Sudarso No.98, Jakarta Utara",Jakarta Utara,-6.136752,106.848589
+MER-00007,Seoul BBQ Pluit,K-Food,"Jl. Daan Mogot No.55, Jakarta Barat",Jakarta Barat,-6.149997,106.75287
+MER-00008,Pad Thai Salemba,Thai Cuisine,"Jl. Kebon Sirih No.68, Jakarta Pusat",Jakarta Pusat,-6.208122,106.848999
+MER-00009,Sate Khas Antasari,Traditional Indonesian,"Jl. Kemang Raya No.161, Jakarta Selatan",Jakarta Selatan,-6.246153,106.832266
+MER-00010,Pasta Bar Pondok Labu,,"Jl. Gatot Subroto No.175, Jakarta Selatan",Jakarta Selatan,-6.258306,106.837146
+MER-00011,Rendang Rumah Kuningan,Warung Makan,"Jl. Melawai No.249, Jakarta Selatan",Jakarta Selatan,-6.234271,106.833151
+MER-00012,Dolce Kemayoran,Pizzeria,"Jl. Kebon Sirih No.236, Jakarta Pusat",Jakarta Pusat,-6.194065,106.813993
+MER-00013,Sakura Kebayoran,Japanese,"Jl. Sudirman No.188, Jakarta Pusat",Jakarta Pusat,-6.163819,106.861117
+MER-00014,Gado-Gado Jatinegara,Nasi & Mie,"Jl. Thamrin No.238, Jakarta Pusat",Jakarta Pusat,-6.18484,106.840696
+MER-00015,Tom Yum Matraman,,"Jl. Pemuda No.87, Jakarta Timur",Jakarta Timur,-6.227911,106.885274
+MER-00016,Nasi Goreng Pak Pluit,Rumah Makan,"Jl. Kebon Sirih No.61, Jakarta Pusat",Jakarta Pusat,-6.214615,106.824126
+MER-00017,Churros Kebayoran,Ice Cream,"Jl. Daan Mogot No.169, Jakarta Barat",Jakarta Barat,-6.14985,106.740225
+MER-00018,Warung Senayan,Rumah Makan,"Jl. Senopati No.50, Jakarta Selatan",Jakarta Selatan,-6.271142,106.8323
+MER-00019,Golden Wok Matraman,Chinese,"Jl. Letjen S. Parman No.215, Jakarta Barat",Jakarta Barat,-6.146942,106.734675
+MER-00020,Gado-Gado Melawai,Local Cuisine,"Jl. Hayam Wuruk No.1, Jakarta Pusat",Jakarta Pusat,-6.192438,106.807818
+MER-00021,Bulgogi Bros Jatinegara,Grill House,"Jl. Boulevard Kelapa Gading No.248, Jakarta Utara",Jakarta Utara,-6.1396,106.845294
+MER-00022,Gado-Gado Antasari,Indonesian Restaurant,"Jl. DI Panjaitan No.21, Jakarta Timur",Jakarta Timur,-6.223132,106.873813
+MER-00023,Warung Cawang,,"Jl. Hayam Wuruk No.169, Jakarta Pusat",Jakarta Pusat,-6.180829,106.841463
+MER-00024,Tom Yum Kebayoran,Thai,"Jl. Pondok Indah No.81, Jakarta Selatan",Jakarta Selatan,-6.283647,106.81933
+MER-00025,Big Bob's Grill Thamrin,Steakhouse,"Jl. Fatmawati No.226, Jakarta Selatan",Jakarta Selatan,-6.261147,106.788547
+MER-00026,Latte Art Tanah Abang,Coffee & Tea,"Jl. Pluit Raya No.171, Jakarta Utara",Jakarta Utara,-6.109566,106.873139
+MER-00027,Espresso House Blok M,Coffee & Tea,"Jl. Matraman Raya No.155, Jakarta Timur",Jakarta Timur,-6.210455,106.879727
+MER-00028,Gado-Gado Tebet,Indonesian,"Jl. Pramuka No.213, Jakarta Timur",Jakarta Timur,-6.204234,106.875938
+MER-00029,Fresh Bread Matraman,Bread Shop,"Jl. Pluit Raya No.242, Jakarta Utara",Jakarta Utara,-6.143139,106.83448
+MER-00030,Pizza Roma Cempaka Putih,European,"Jl. Sudirman No.231, Jakarta Pusat",Jakarta Pusat,-6.198004,106.858239
+MER-00031,Kopi Cilandak,Coffee Shop,"Jl. Raya Bogor No.226, Jakarta Timur",Jakarta Timur,-6.240796,106.88015
+MER-00032,Ice Cream Castle Pasar Minggu,Dessert Shop,"Jl. Sudirman No.220, Jakarta Pusat",Jakarta Pusat,-6.174423,106.827253
+MER-00033,Oppa Chicken Pluit,Korean BBQ,"Jl. Sudirman No.248, Jakarta Pusat",Jakarta Pusat,-6.204912,106.823996
+MER-00034,Rooftop Lounge Mampang,Lounge,"Jl. Raya Bogor No.149, Jakarta Timur",Jakarta Timur,-6.248079,106.928624
+MER-00035,Kimchi House Cempaka Putih,Grill House,"Jl. Danau Sunter Utara No.49, Jakarta Utara",Jakarta Utara,-6.138115,106.857012
+MER-00036,Latte Art Fatmawati,Cafe,"Jl. Fatmawati No.160, Jakarta Selatan",Jakarta Selatan,-6.287302,106.820454
+MER-00037,Han Kook Setiabudi,Grill House,"Jl. Cilandak No.171, Jakarta Selatan",Jakarta Selatan,-6.273761,106.788237
+MER-00038,Steak Factory Jatinegara,Grill House,"Jl. Letjen S. Parman No.156, Jakarta Barat",Jakarta Barat,-6.180068,106.741411
+MER-00039,Dragon Palace PIK,Chinese Restaurant,"Jl. Gatot Subroto No.210, Jakarta Selatan",Jakarta Selatan,-6.251669,106.817756
+MER-00040,Nasi Goreng Pak Kemang,Nasi & Mie,"Jl. Sudirman No.117, Jakarta Pusat",Jakarta Pusat,-6.187992,106.855284
+MER-00041,Sushi Yama Sudirman,Japanese Cuisine,"Jl. Pramuka No.57, Jakarta Timur",Jakarta Timur,-6.203374,106.923528
+MER-00042,Warung Salemba,Rumah Makan,"Jl. Kebon Sirih No.153, Jakarta Pusat",Jakarta Pusat,-6.188621,106.836168
+MER-00043,Hong Kong Matraman,Noodle House,"Jl. Matraman Raya No.193, Jakarta Timur",Jakarta Timur,-6.210381,106.89888
+MER-00044,Dragon Palace Pasar Minggu,Chinese,"Jl. Fatmawati No.82, Jakarta Selatan",Jakarta Selatan,-6.248687,106.79467
+MER-00045,Burger Joint Thamrin,Fried Chicken,"Jl. Rasuna Said No.53, Jakarta Selatan",Jakarta Selatan,-6.271647,106.808555
+MER-00046,Fry Lab Melawai,QSR,"Jl. Hayam Wuruk No.138, Jakarta Pusat",Jakarta Pusat,-6.195394,106.849509
+MER-00047,Dim Sum Cempaka Putih,Hong Kong Style,"Jl. Cilandak No.186, Jakarta Selatan",Jakarta Selatan,-6.268169,106.820732
+MER-00048,Steak Factory Pulogadung,Western,"Jl. Boulevard Kelapa Gading No.222, Jakarta Utara",Jakarta Utara,-6.167174,106.872465
+MER-00049,Dim Sum Cideng,Chinese Cuisine,"Jl. Gatot Subroto No.121, Jakarta Selatan",Jakarta Selatan,-6.234428,106.805894
+MER-00050,Warung Kemang,Warung Makan,"Jl. Daan Mogot No.160, Jakarta Barat",Jakarta Barat,-6.141323,106.740762
+MER-00051,Croissant Tebet,Pastry Shop,"Jl. Daan Mogot No.200, Jakarta Barat",Jakarta Barat,-6.188233,106.765235
+MER-00052,Bulgogi Bros Cideng,Korean BBQ,"Jl. Senopati No.27, Jakarta Selatan",Jakarta Selatan,-6.248599,106.78516
+MER-00053,Nasi Goreng Pak Senopati,Rumah Makan,"Jl. Fatmawati No.4, Jakarta Selatan",Jakarta Selatan,-6.251809,106.784737
+MER-00054,Pasta Bar Cilandak,Trattoria,"Jl. Melawai No.158, Jakarta Selatan",Jakarta Selatan,-6.247472,106.838528
+MER-00055,Morning Brew Pasar Minggu,Coffee & Pastry,"Jl. Melawai No.226, Jakarta Selatan",Jakarta Selatan,-6.27677,106.836677
+MER-00056,Han Kook Setiabudi,Grill House,"Jl. Gajah Mada No.72, Jakarta Pusat",Jakarta Pusat,-6.203773,106.85217
+MER-00057,Dragon Palace PIK,Noodle House,"Jl. Thamrin No.177, Jakarta Pusat",Jakarta Pusat,-6.192114,106.837611
+MER-00058,Soto Betawi Ancol,Traditional Indonesian,"Jl. Yos Sudarso No.142, Jakarta Utara",Jakarta Utara,-6.150428,106.868793
+MER-00059,Donburi Pasar Minggu,,"Jl. Fatmawati No.31, Jakarta Selatan",Jakarta Selatan,-6.277668,106.823877
+MER-00060,Chicken Rush Pulogadung,Quick Service,"Jl. Pemuda No.214, Jakarta Timur",Jakarta Timur,-6.223522,106.88738
+MER-00061,Burger Joint Pasar Minggu,Fried Chicken,"Jl. Thamrin No.164, Jakarta Pusat",Jakarta Pusat,-6.213228,106.821828
+MER-00062,Han Kook Matraman,Korean Grill,"Jl. Pondok Indah No.30, Jakarta Selatan",Jakarta Selatan,-6.23357,106.795749
+MER-00063,Burger Joint Cilandak,Fried Chicken,"Jl. Panjang No.31, Jakarta Barat",Jakarta Barat,-6.141352,106.733911
+MER-00064,Rendang Rumah Matraman,Indonesian,"Jl. Pramuka No.79, Jakarta Timur",Jakarta Timur,-6.237159,106.905712
+MER-00065,Fresh Bread Grogol,Boulangerie,"Jl. Casablanca No.20, Jakarta Selatan",Jakarta Selatan,-6.286629,106.794992
+MER-00066,Oppa Chicken Pancoran,,"Jl. Panjang No.237, Jakarta Barat",Jakarta Barat,-6.156121,106.756042
+MER-00067,Churros Blok M,Dessert Cafe,"Jl. Kemang Raya No.19, Jakarta Selatan",Jakarta Selatan,-6.252642,106.835105
+MER-00068,Churros Blok M,Ice Cream,"Jl. Melawai No.129, Jakarta Selatan",Jakarta Selatan,-6.273255,106.804751
+MER-00069,Sakura Kemayoran,Sushi Bar,"Jl. Rasuna Said No.196, Jakarta Selatan",Jakarta Selatan,-6.28602,106.838315
+MER-00070,Gado-Gado Pasar Minggu,Southeast Asian,"Jl. Hayam Wuruk No.249, Jakarta Pusat",Jakarta Pusat,-6.18138,106.842387
+MER-00071,Sate Khas Mampang,Indonesian,"Jl. Cilandak No.209, Jakarta Selatan",Jakarta Selatan,-6.261772,106.820355
+MER-00072,Han Kook Antasari,K-Food,"Jl. Puri Indah No.106, Jakarta Barat",Jakarta Barat,-6.198231,106.780962
+MER-00073,Bella Italia Grogol,European,"Jl. Pondok Indah No.32, Jakarta Selatan",Jakarta Selatan,-6.283639,106.797882
+MER-00074,Nasi Goreng Pak Jatinegara,Warung Makan,"Jl. Gatot Subroto No.119, Jakarta Selatan",Jakarta Selatan,-6.278018,106.831084
+MER-00075,Dim Sum Rawamangun,Chinese Cuisine,"Jl. Letjen S. Parman No.38, Jakarta Barat",Jakarta Barat,-6.139485,106.743424
+MER-00076,Espresso House Rawamangun,Specialty Coffee,"Jl. Rasuna Said No.73, Jakarta Selatan",Jakarta Selatan,-6.244237,106.79663
+MER-00077,Kopi Lebak Bulus,Coffee Shop,"Jl. Cilandak No.117, Jakarta Selatan",Jakarta Selatan,-6.271554,106.826372
+MER-00078,Donburi Kemang,,"Jl. Cilandak No.99, Jakarta Selatan",Jakarta Selatan,-6.263121,106.835406
+MER-00079,Golden Wok Pondok Indah,Hong Kong Style,"Jl. Pondok Indah No.26, Jakarta Selatan",Jakarta Selatan,-6.256089,106.832782
+MER-00080,Bean Lab Thamrin,Coffee & Tea,"Jl. Cilandak No.167, Jakarta Selatan",Jakarta Selatan,-6.233348,106.800914
+MER-00081,Sakura Dharmawangsa,Ramen Shop,"Jl. Matraman Raya No.59, Jakarta Timur",Jakarta Timur,-6.252846,106.874505
+MER-00082,QuickBite Matraman,Burger & Fries,"Jl. Gajah Mada No.204, Jakarta Pusat",Jakarta Pusat,-6.198532,106.806037
+MER-00083,The Diner Cikini,Western Cuisine,"Jl. Kebon Sirih No.175, Jakarta Pusat",Jakarta Pusat,-6.211762,106.85655
+MER-00084,Bakso Sudirman,Southeast Asian,"Jl. DI Panjaitan No.41, Jakarta Timur",Jakarta Timur,-6.227085,106.887658
+MER-00085,Pastry Lab Salemba,Patisserie,"Jl. Puri Indah No.28, Jakarta Barat",Jakarta Barat,-6.186347,106.751882
+MER-00086,QuickBite Ancol,Fried Chicken,"Jl. Rasuna Said No.234, Jakarta Selatan",Jakarta Selatan,-6.257544,106.821748
+MER-00087,Bean Lab Kemayoran,,"Jl. Kyai Tapa No.174, Jakarta Barat",Jakarta Barat,-6.18516,106.740208
+MER-00088,Nasi Goreng Pak Tanah Abang,Southeast Asian,"Jl. Panjang No.24, Jakarta Barat",Jakarta Barat,-6.196298,106.750692
+MER-00089,Ayam Geprek Pondok Labu,Southeast Asian,"Jl. Pondok Indah No.248, Jakarta Selatan",Jakarta Selatan,-6.275148,106.790473
+MER-00090,Soto Betawi Ancol,Indonesian Restaurant,"Jl. Pramuka No.4, Jakarta Timur",Jakarta Timur,-6.206725,106.892347
+MER-00091,Pad Thai Bendungan Hilir,Thai Restaurant,"Jl. Kebon Sirih No.84, Jakarta Pusat",Jakarta Pusat,-6.202471,106.805801
+MER-00092,Dim Sum Rawamangun,Chinese Cuisine,"Jl. Hayam Wuruk No.30, Jakarta Pusat",Jakarta Pusat,-6.213779,106.806533
+MER-00093,Pad Thai Pulogadung,Thai Cuisine,"Jl. Daan Mogot No.214, Jakarta Barat",Jakarta Barat,-6.189029,106.753693
+MER-00094,Burger Joint Matraman,,"Jl. Fatmawati No.140, Jakarta Selatan",Jakarta Selatan,-6.277333,106.802361
+MER-00095,Warung Salemba,Nasi & Mie,"Jl. Sudirman No.13, Jakarta Pusat",Jakarta Pusat,-6.203774,106.84267
+MER-00096,Soto Betawi Pulogadung,Indonesian,"Jl. Thamrin No.202, Jakarta Pusat",Jakarta Pusat,-6.164318,106.824014
+MER-00097,Rooftop Lounge Tebet,Pub,"Jl. Panjang No.4, Jakarta Barat",Jakarta Barat,-6.191704,106.780787
+MER-00098,Sate Khas Rawamangun,Rumah Makan,"Jl. Fatmawati No.132, Jakarta Selatan",Jakarta Selatan,-6.24676,106.809175
+MER-00099,Bakso Salemba,Rumah Makan,"Jl. Yos Sudarso No.110, Jakarta Utara",Jakarta Utara,-6.166931,106.893815
+MER-00100,Espresso House Kemayoran,Coffee & Pastry,"Jl. Kebon Sirih No.141, Jakarta Pusat",Jakarta Pusat,-6.208929,106.841759
+MER-00101,Hong Kong Cempaka Putih,Noodle House,"Jl. Menteng Raya No.225, Jakarta Pusat",Jakarta Pusat,-6.174393,106.855468
+MER-00102,Kopi Mampang,Coffee & Tea,"Jl. Kyai Tapa No.110, Jakarta Barat",Jakarta Barat,-6.174376,106.772577
+MER-00103,Sweet Dreams PIK,Dessert,"Jl. Kyai Tapa No.208, Jakarta Barat",Jakarta Barat,-6.192706,106.734594
+MER-00104,Seoul BBQ Rawamangun,Korean BBQ,"Jl. Rasuna Said No.248, Jakarta Selatan",Jakarta Selatan,-6.25158,106.825617
+MER-00105,Gado-Gado Pluit,Nasi & Mie,"Jl. Daan Mogot No.196, Jakarta Barat",Jakarta Barat,-6.177293,106.762176
+MER-00106,Baker's Daily Kemayoran,Pastry Shop,"Jl. Raya Bogor No.70, Jakarta Timur",Jakarta Timur,-6.205232,106.886447
+MER-00107,Sate Khas Cawang,Nasi & Mie,"Jl. Pluit Raya No.24, Jakarta Utara",Jakarta Utara,-6.164625,106.878358
+MER-00108,Bakso Setiabudi,Indonesian,"Jl. Daan Mogot No.40, Jakarta Barat",Jakarta Barat,-6.164244,106.733897
+MER-00109,Pad Thai Kemayoran,Southeast Asian,"Jl. Gatot Subroto No.89, Jakarta Selatan",Jakarta Selatan,-6.27511,106.825897
+MER-00110,Smokehouse Kemang,,"Jl. Thamrin No.78, Jakarta Pusat",Jakarta Pusat,-6.157433,106.807587
+MER-00111,Seoul BBQ Dharmawangsa,Grill House,"Jl. Panjang No.129, Jakarta Barat",Jakarta Barat,-6.187758,106.751612
+MER-00112,Daily Coffee Cempaka Putih,,"Jl. Kebon Sirih No.110, Jakarta Pusat",Jakarta Pusat,-6.16123,106.856027
+MER-00113,Sakura Kuningan,Japanese,"Jl. Kyai Tapa No.23, Jakarta Barat",Jakarta Barat,-6.161212,106.778722
+MER-00114,Steak Factory Tanah Abang,Western Cuisine,"Jl. Daan Mogot No.131, Jakarta Barat",Jakarta Barat,-6.185006,106.775547
+MER-00115,Bulgogi Bros Cilandak,Grill House,"Jl. Kebon Sirih No.40, Jakarta Pusat",Jakarta Pusat,-6.207713,106.816136
+MER-00116,Pasta Bar Cawang,Trattoria,"Jl. Letjen S. Parman No.165, Jakarta Barat",Jakarta Barat,-6.171366,106.784249
+MER-00117,Han Kook Thamrin,Korean BBQ,"Jl. Rasuna Said No.91, Jakarta Selatan",Jakarta Selatan,-6.253617,106.82838
+MER-00118,Sakura Thamrin,Izakaya,"Jl. Danau Sunter Utara No.130, Jakarta Utara",Jakarta Utara,-6.110158,106.839318
+MER-00119,Kopi Cawang,Cafe,"Jl. Boulevard Kelapa Gading No.246, Jakarta Utara",Jakarta Utara,-6.149508,106.862438
+MER-00120,The Wine Cellar Antasari,Pub,"Jl. Yos Sudarso No.135, Jakarta Utara",Jakarta Utara,-6.166451,106.876357
+MER-00121,Sakura Kemayoran,Ramen Shop,"Jl. Gajah Mada No.25, Jakarta Pusat",Jakarta Pusat,-6.178647,106.824379
+MER-00122,Thai Spicy Mampang,Thai Cuisine,"Jl. Gajah Mada No.248, Jakarta Pusat",Jakarta Pusat,-6.176683,106.859305
+MER-00123,Rendang Rumah Mampang,Traditional Indonesian,"Jl. Letjen S. Parman No.24, Jakarta Barat",Jakarta Barat,-6.158093,106.778538
+MER-00124,Oppa Chicken Mampang,,"Jl. Raya Bogor No.40, Jakarta Timur",Jakarta Timur,-6.225824,106.883993
+MER-00125,The Diner Kemang,Steakhouse,"Jl. Danau Sunter Utara No.97, Jakarta Utara",Jakarta Utara,-6.116216,106.870982
+MER-00126,Bean Lab Matraman,,"Jl. Hayam Wuruk No.157, Jakarta Pusat",Jakarta Pusat,-6.194642,106.847475
+MER-00127,Gado-Gado Fatmawati,Traditional Indonesian,"Jl. Pondok Indah No.197, Jakarta Selatan",Jakarta Selatan,-6.234672,106.839666
+MER-00128,Soto Betawi Kemayoran,,"Jl. Gajah Mada No.142, Jakarta Pusat",Jakarta Pusat,-6.2015,106.842771
+MER-00129,Espresso House Matraman,Coffee & Tea,"Jl. Raya Bogor No.210, Jakarta Timur",Jakarta Timur,-6.246159,106.896648
+MER-00130,Sakura Kebayoran,Japanese Cuisine,"Jl. Fatmawati No.239, Jakarta Selatan",Jakarta Selatan,-6.286604,106.794072
+MER-00131,Bakso Melawai,Indonesian Restaurant,"Jl. Yos Sudarso No.158, Jakarta Utara",Jakarta Utara,-6.160472,106.876232
+MER-00132,Rendang Rumah Blok M,Rumah Makan,"Jl. Panjang No.108, Jakarta Barat",Jakarta Barat,-6.184042,106.736111
+MER-00133,Hong Kong Menteng,Dim Sum House,"Jl. Pantai Indah Kapuk No.110, Jakarta Utara",Jakarta Utara,-6.134297,106.877013
+MER-00134,Bangkok Kitchen Pondok Labu,,"Jl. DI Panjaitan No.202, Jakarta Timur",Jakarta Timur,-6.250939,106.901964
+MER-00135,Rendang Rumah Bendungan Hilir,Indonesian Restaurant,"Jl. Fatmawati No.62, Jakarta Selatan",Jakarta Selatan,-6.290525,106.827911
+MER-00136,Seoul BBQ Senopati,Korean Restaurant,"Jl. Pondok Indah No.179, Jakarta Selatan",Jakarta Selatan,-6.242689,106.791105
+MER-00137,Kopi Kemang,Specialty Coffee,"Jl. Rasuna Said No.81, Jakarta Selatan",Jakarta Selatan,-6.288872,106.792568
+MER-00138,Golden Wok Fatmawati,Dim Sum House,"Jl. Fatmawati No.70, Jakarta Selatan",Jakarta Selatan,-6.239772,106.783468
+MER-00139,Donburi Mampang,Japanese Cuisine,"Jl. DI Panjaitan No.69, Jakarta Timur",Jakarta Timur,-6.225228,106.900251
+MER-00140,The Wine Cellar Lebak Bulus,,"Jl. Melawai No.79, Jakarta Selatan",Jakarta Selatan,-6.285344,106.800275
+MER-00141,Tokyo Ramen Senopati,Ramen Shop,"Jl. Pluit Raya No.20, Jakarta Utara",Jakarta Utara,-6.142704,106.872268
+MER-00142,Bangkok Kitchen Cilandak,Southeast Asian,"Jl. Panjang No.18, Jakarta Barat",Jakarta Barat,-6.157615,106.75509
+MER-00143,Sate Khas Matraman,Traditional Indonesian,"Jl. DI Panjaitan No.36, Jakarta Timur",Jakarta Timur,-6.232679,106.916185
+MER-00144,Baker's Daily Cikini,Boulangerie,"Jl. Melawai No.199, Jakarta Selatan",Jakarta Selatan,-6.268281,106.8143
+MER-00145,Fry Lab Fatmawati,,"Jl. Menteng Raya No.114, Jakarta Pusat",Jakarta Pusat,-6.16533,106.831423
+MER-00146,Bangkok Kitchen Jatinegara,Thai Restaurant,"Jl. Kemang Raya No.204, Jakarta Selatan",Jakarta Selatan,-6.23802,106.831682
+MER-00147,Gado-Gado Menteng,Indonesian Restaurant,"Jl. Casablanca No.34, Jakarta Selatan",Jakarta Selatan,-6.257163,106.808644
+MER-00148,Fry Lab Pondok Labu,Fast Food,"Jl. Kemang Raya No.249, Jakarta Selatan",Jakarta Selatan,-6.266934,106.815094
+MER-00149,K-Street Pulogadung,Korean Restaurant,"Jl. Sudirman No.213, Jakarta Pusat",Jakarta Pusat,-6.158524,106.830257
+MER-00150,Ice Cream Castle Senopati,Sweet Shop,"Jl. Pemuda No.65, Jakarta Timur",Jakarta Timur,-6.223866,106.887443
+MER-00151,Bella Italia Antasari,Trattoria,"Jl. Boulevard Kelapa Gading No.169, Jakarta Utara",Jakarta Utara,-6.133291,106.868739
+MER-00152,Nasi Goreng Pak PIK,Traditional Indonesian,"Jl. Menteng Raya No.54, Jakarta Pusat",Jakarta Pusat,-6.178013,106.838906
+MER-00153,Morning Brew Pancoran,,"Jl. Yos Sudarso No.77, Jakarta Utara",Jakarta Utara,-6.150674,106.848593
+MER-00154,Dragon Palace Mampang,,"Jl. Pantai Indah Kapuk No.250, Jakarta Utara",Jakarta Utara,-6.150045,106.877002
+MER-00155,Han Kook Blok M,K-Food,"Jl. Melawai No.243, Jakarta Selatan",Jakarta Selatan,-6.276625,106.786409
+MER-00156,Bingsu Cawang,Dessert Cafe,"Jl. Letjen S. Parman No.120, Jakarta Barat",Jakarta Barat,-6.18691,106.738361
+MER-00157,Donburi Kebayoran,Japanese Cuisine,"Jl. Hayam Wuruk No.153, Jakarta Pusat",Jakarta Pusat,-6.195326,106.807332
+MER-00158,Warung Cempaka Putih,Indonesian,"Jl. Hayam Wuruk No.94, Jakarta Pusat",Jakarta Pusat,-6.200632,106.826247
+MER-00159,Big Bob's Grill Cideng,Grill House,"Jl. Gatot Subroto No.33, Jakarta Selatan",Jakarta Selatan,-6.245636,106.797383
+MER-00160,Smokehouse Cilandak,American Diner,"Jl. Sudirman No.10, Jakarta Pusat",Jakarta Pusat,-6.185953,106.834305
+MER-00161,Sate Khas Setiabudi,Southeast Asian,"Jl. DI Panjaitan No.190, Jakarta Timur",Jakarta Timur,-6.235888,106.893977
+MER-00162,Hong Kong Tanah Abang,,"Jl. Gatot Subroto No.107, Jakarta Selatan",Jakarta Selatan,-6.290502,106.800474
+MER-00163,Dolce Melawai,Pasta Bar,"Jl. Senopati No.185, Jakarta Selatan",Jakarta Selatan,-6.252165,106.838923
+MER-00164,Pasta Bar Cilandak,Pizzeria,"Jl. Daan Mogot No.49, Jakarta Barat",Jakarta Barat,-6.183768,106.763154
+MER-00165,Gado-Gado Senayan,Warung Makan,"Jl. Puri Indah No.135, Jakarta Barat",Jakarta Barat,-6.167179,106.762453
+MER-00166,Smokehouse Melawai,American Diner,"Jl. Thamrin No.242, Jakarta Pusat",Jakarta Pusat,-6.201709,106.837785
+MER-00167,Fry Lab Setiabudi,,"Jl. Melawai No.74, Jakarta Selatan",Jakarta Selatan,-6.257871,106.836669
+MER-00168,Sakura Cilandak,Sushi Bar,"Jl. Fatmawati No.237, Jakarta Selatan",Jakarta Selatan,-6.274242,106.823448
+MER-00169,Espresso House Jatinegara,,"Jl. Danau Sunter Utara No.62, Jakarta Utara",Jakarta Utara,-6.160564,106.870841
+MER-00170,Warung Rawamangun,Warung Makan,"Jl. Kemang Raya No.2, Jakarta Selatan",Jakarta Selatan,-6.263156,106.821472
+MER-00171,Kopi Fatmawati,,"Jl. Daan Mogot No.233, Jakarta Barat",Jakarta Barat,-6.181065,106.745925
+MER-00172,QuickBite Cikini,Fried Chicken,"Jl. Rasuna Said No.215, Jakarta Selatan",Jakarta Selatan,-6.241244,106.836635
+MER-00173,Espresso House Kemang,,"Jl. Gajah Mada No.73, Jakarta Pusat",Jakarta Pusat,-6.182422,106.810738
+MER-00174,Churros Pasar Minggu,Dessert Shop,"Jl. Hayam Wuruk No.166, Jakarta Pusat",Jakarta Pusat,-6.209741,106.81405
+MER-00175,Bulgogi Bros Fatmawati,Korean Grill,"Jl. Hayam Wuruk No.132, Jakarta Pusat",Jakarta Pusat,-6.165131,106.858123
+MER-00176,Ayam Geprek Kebayoran,Indonesian,"Jl. Gajah Mada No.245, Jakarta Pusat",Jakarta Pusat,-6.193486,106.831104
+MER-00177,Warung Salemba,Local Cuisine,"Jl. Melawai No.177, Jakarta Selatan",Jakarta Selatan,-6.267175,106.810751
+MER-00178,Croissant Cilandak,Patisserie,"Jl. Casablanca No.234, Jakarta Selatan",Jakarta Selatan,-6.23217,106.803017
+MER-00179,Latte Art Kemayoran,Cafe,"Jl. Matraman Raya No.20, Jakarta Timur",Jakarta Timur,-6.250088,106.897205
+MER-00180,Hong Kong Lebak Bulus,Chinese Cuisine,"Jl. Sudirman No.175, Jakarta Pusat",Jakarta Pusat,-6.196813,106.83552
+MER-00181,Golden Wok Salemba,Dim Sum House,"Jl. Kebon Sirih No.119, Jakarta Pusat",Jakarta Pusat,-6.191575,106.838135
+MER-00182,Latte Art Grogol,Cafe,"Jl. Pluit Raya No.139, Jakarta Utara",Jakarta Utara,-6.166083,106.854572
+MER-00183,Oppa Chicken Pondok Indah,Korean Grill,"Jl. Puri Indah No.96, Jakarta Barat",Jakarta Barat,-6.1396,106.767553
+MER-00184,Tokyo Ramen Lebak Bulus,Japanese Cuisine,"Jl. Kebon Sirih No.101, Jakarta Pusat",Jakarta Pusat,-6.164883,106.811418
+MER-00185,Chicken Rush Salemba,Quick Service,"Jl. Boulevard Kelapa Gading No.64, Jakarta Utara",Jakarta Utara,-6.136133,106.865816
+MER-00186,QuickBite Kemang,Fast Food,"Jl. Daan Mogot No.62, Jakarta Barat",Jakarta Barat,-6.173146,106.774763
+MER-00187,Bangkok Kitchen Kebayoran,Thai,"Jl. Panjang No.194, Jakarta Barat",Jakarta Barat,-6.174164,106.74286
+MER-00188,Ayam Geprek Cawang,,"Jl. Pantai Indah Kapuk No.225, Jakarta Utara",Jakarta Utara,-6.128448,106.85314
+MER-00189,Sate Khas Cempaka Putih,Traditional Indonesian,"Jl. Yos Sudarso No.202, Jakarta Utara",Jakarta Utara,-6.165987,106.854565
+MER-00190,Gado-Gado Kebayoran,Traditional Indonesian,"Jl. Puri Indah No.235, Jakarta Barat",Jakarta Barat,-6.180256,106.771255
+MER-00191,Soto Betawi Tebet,Nasi & Mie,"Jl. Gajah Mada No.24, Jakarta Pusat",Jakarta Pusat,-6.177698,106.859634
+MER-00192,Bella Italia Thamrin,,"Jl. Kebon Sirih No.56, Jakarta Pusat",Jakarta Pusat,-6.170798,106.847758
+MER-00193,Ice Cream Castle Fatmawati,Sweet Shop,"Jl. Pramuka No.235, Jakarta Timur",Jakarta Timur,-6.247961,106.930374
+MER-00194,Ayam Geprek Pancoran,Rumah Makan,"Jl. Melawai No.93, Jakarta Selatan",Jakarta Selatan,-6.259481,106.802156
+MER-00195,Chicken Rush Grogol,Burger & Fries,"Jl. Senopati No.190, Jakarta Selatan",Jakarta Selatan,-6.266664,106.814351
+MER-00196,Chicken Rush Cilandak,,"Jl. Thamrin No.128, Jakarta Pusat",Jakarta Pusat,-6.202699,106.838487
+MER-00197,Mala House Salemba,Chinese Cuisine,"Jl. Menteng Raya No.140, Jakarta Pusat",Jakarta Pusat,-6.168801,106.814456
+MER-00198,Big Bob's Grill Senayan,Western,"Jl. Panjang No.18, Jakarta Barat",Jakarta Barat,-6.173556,106.779353
+MER-00199,Gado-Gado Dharmawangsa,,"Jl. Sudirman No.136, Jakarta Pusat",Jakarta Pusat,-6.184567,106.82898
+MER-00200,Latte Art Cempaka Putih,Coffee Shop,"Jl. Daan Mogot No.135, Jakarta Barat",Jakarta Barat,-6.143714,106.735221
+MER-00201,Donburi PIK,,"Jl. Senopati No.77, Jakarta Selatan",Jakarta Selatan,-6.267138,106.8145
+MER-00202,Bangkok Kitchen PIK,Thai Cuisine,"Jl. Rasuna Said No.180, Jakarta Selatan",Jakarta Selatan,-6.26887,106.80916
+MER-00203,Seoul BBQ Pondok Labu,Korean,"Jl. DI Panjaitan No.122, Jakarta Timur",Jakarta Timur,-6.241214,106.924476
+MER-00204,Big Bob's Grill Cikini,European,"Jl. DI Panjaitan No.37, Jakarta Timur",Jakarta Timur,-6.236131,106.928088
+MER-00205,K-Street Kebayoran,Grill House,"Jl. Danau Sunter Utara No.85, Jakarta Utara",Jakarta Utara,-6.117833,106.874522
+MER-00206,Chicken Rush Senayan,QSR,"Jl. Kebon Sirih No.197, Jakarta Pusat",Jakarta Pusat,-6.202571,106.808861
+MER-00207,Bakso Matraman,Traditional Indonesian,"Jl. Cilandak No.48, Jakarta Selatan",Jakarta Selatan,-6.270151,106.837069
+MER-00208,Latte Art Thamrin,Coffee & Tea,"Jl. Menteng Raya No.40, Jakarta Pusat",Jakarta Pusat,-6.207247,106.847001
+MER-00209,Croissant Bendungan Hilir,Patisserie,"Jl. Puri Indah No.115, Jakarta Barat",Jakarta Barat,-6.192166,106.734038
+MER-00210,Tokyo Ramen Kemayoran,Japanese,"Jl. Pantai Indah Kapuk No.106, Jakarta Utara",Jakarta Utara,-6.149334,106.857014
+MER-00211,The Wine Cellar Cawang,Pub,"Jl. Melawai No.78, Jakarta Selatan",Jakarta Selatan,-6.250381,106.79077
+MER-00212,Donburi Thamrin,Ramen Shop,"Jl. Pondok Indah No.153, Jakarta Selatan",Jakarta Selatan,-6.234847,106.823854
+MER-00213,Pastry Lab Cideng,Patisserie,"Jl. Letjen S. Parman No.35, Jakarta Barat",Jakarta Barat,-6.178527,106.748884
+MER-00214,Han Kook Setiabudi,,"Jl. Senopati No.84, Jakarta Selatan",Jakarta Selatan,-6.249803,106.81006
+MER-00215,Ice Cream Castle Pulogadung,,"Jl. Pemuda No.244, Jakarta Timur",Jakarta Timur,-6.244204,106.916457
+MER-00216,Daily Coffee Rawamangun,Coffee & Pastry,"Jl. Pantai Indah Kapuk No.169, Jakarta Utara",Jakarta Utara,-6.160449,106.85207
+MER-00217,Craft Beer Pulogadung,Lounge,"Jl. Cilandak No.140, Jakarta Selatan",Jakarta Selatan,-6.261103,106.835824
+MER-00218,Bella Italia Kelapa Gading,European,"Jl. Letjen S. Parman No.12, Jakarta Barat",Jakarta Barat,-6.158844,106.750101
+MER-00219,Fry Lab Kelapa Gading,QSR,"Jl. Kebon Sirih No.143, Jakarta Pusat",Jakarta Pusat,-6.200976,106.834941
+MER-00220,Hong Kong Antasari,Chinese,"Jl. Gajah Mada No.107, Jakarta Pusat",Jakarta Pusat,-6.156638,106.833266
+MER-00221,Bakso Mampang,Rumah Makan,"Jl. Pondok Indah No.25, Jakarta Selatan",Jakarta Selatan,-6.279088,106.809576
+MER-00222,Daily Coffee Menteng,Coffee Shop,"Jl. Panjang No.239, Jakarta Barat",Jakarta Barat,-6.159422,106.769428
+MER-00223,Han Kook Salemba,Korean,"Jl. Menteng Raya No.169, Jakarta Pusat",Jakarta Pusat,-6.192197,106.815367
+MER-00224,Mala House Cideng,Chinese Cuisine,"Jl. Menteng Raya No.208, Jakarta Pusat",Jakarta Pusat,-6.203612,106.821001
+MER-00225,Ayam Geprek Fatmawati,Traditional Indonesian,"Jl. Casablanca No.248, Jakarta Selatan",Jakarta Selatan,-6.275759,106.832358
+MER-00226,Han Kook Cikini,Korean Restaurant,"Jl. Letjen S. Parman No.152, Jakarta Barat",Jakarta Barat,-6.155941,106.746647
+MER-00227,Ayam Geprek Cilandak,,"Jl. Cilandak No.109, Jakarta Selatan",Jakarta Selatan,-6.266406,106.788872
+MER-00228,Rooftop Lounge Kuningan,Lounge,"Jl. Pondok Indah No.159, Jakarta Selatan",Jakarta Selatan,-6.283082,106.799475
+MER-00229,Rendang Rumah Jatinegara,Rumah Makan,"Jl. Cilandak No.182, Jakarta Selatan",Jakarta Selatan,-6.261802,106.821682
+MER-00230,Bean Lab Pancoran,Coffee & Pastry,"Jl. Hayam Wuruk No.145, Jakarta Pusat",Jakarta Pusat,-6.203009,106.82162
+MER-00231,Ayam Geprek Lebak Bulus,Indonesian Restaurant,"Jl. Letjen S. Parman No.56, Jakarta Barat",Jakarta Barat,-6.195803,106.771939
+MER-00232,Nasi Goreng Pak Matraman,Nasi & Mie,"Jl. Gatot Subroto No.199, Jakarta Selatan",Jakarta Selatan,-6.239768,106.785819
+MER-00233,Izakaya Cempaka Putih,Sushi Bar,"Jl. Thamrin No.207, Jakarta Pusat",Jakarta Pusat,-6.208146,106.816697
+MER-00234,Bakso Pancoran,Traditional Indonesian,"Jl. Pluit Raya No.35, Jakarta Utara",Jakarta Utara,-6.111656,106.864765
+MER-00235,Bean Lab Pondok Indah,Specialty Coffee,"Jl. Menteng Raya No.101, Jakarta Pusat",Jakarta Pusat,-6.173816,106.854009
+MER-00236,Tokyo Ramen PIK,Sushi Bar,"Jl. Fatmawati No.117, Jakarta Selatan",Jakarta Selatan,-6.246512,106.822282
+MER-00237,Daily Coffee Salemba,Coffee & Pastry,"Jl. Danau Sunter Utara No.102, Jakarta Utara",Jakarta Utara,-6.126963,106.884906
+MER-00238,Kimchi House Mampang,Korean,"Jl. Fatmawati No.229, Jakarta Selatan",Jakarta Selatan,-6.283664,106.831745
+MER-00239,Daily Coffee Blok M,Coffee Shop,"Jl. Pramuka No.52, Jakarta Timur",Jakarta Timur,-6.245521,106.897791
+MER-00240,Espresso House PIK,Coffee & Tea,"Jl. Boulevard Kelapa Gading No.14, Jakarta Utara",Jakarta Utara,-6.153777,106.856211
+MER-00241,Tokyo Ramen Kelapa Gading,Japanese,"Jl. Thamrin No.133, Jakarta Pusat",Jakarta Pusat,-6.187892,106.812262
+MER-00242,Rendang Rumah Pondok Indah,Local Cuisine,"Jl. Gatot Subroto No.27, Jakarta Selatan",Jakarta Selatan,-6.277763,106.78596
+MER-00243,Burger Joint Cilandak,Quick Service,"Jl. Thamrin No.113, Jakarta Pusat",Jakarta Pusat,-6.182703,106.840919
+MER-00244,Izakaya Matraman,Sushi Bar,"Jl. Pemuda No.151, Jakarta Timur",Jakarta Timur,-6.249799,106.876428
+MER-00245,Bakso PIK,Indonesian,"Jl. Gajah Mada No.200, Jakarta Pusat",Jakarta Pusat,-6.18044,106.847571
+MER-00246,K-Street Kemayoran,Korean Restaurant,"Jl. Rasuna Said No.201, Jakarta Selatan",Jakarta Selatan,-6.246629,106.798333
+MER-00247,Hong Kong Thamrin,,"Jl. Fatmawati No.34, Jakarta Selatan",Jakarta Selatan,-6.232838,106.839813
+MER-00248,Fry Lab Thamrin,Fried Chicken,"Jl. Sudirman No.237, Jakarta Pusat",Jakarta Pusat,-6.212448,106.820031
+MER-00249,Mala House Cempaka Putih,Dim Sum House,"Jl. Letjen S. Parman No.40, Jakarta Barat",Jakarta Barat,-6.193354,106.760994
+MER-00250,Fresh Bread Lebak Bulus,,"Jl. Gatot Subroto No.80, Jakarta Selatan",Jakarta Selatan,-6.256314,106.826393
+MER-00251,Rendang Rumah Blok M,Warung Makan,"Jl. Kemang Raya No.31, Jakarta Selatan",Jakarta Selatan,-6.25497,106.799157
+MER-00252,Pastry Lab Kuningan,Pastry Shop,"Jl. Gatot Subroto No.198, Jakarta Selatan",Jakarta Selatan,-6.246513,106.833008
+MER-00253,Warung Dharmawangsa,Indonesian Restaurant,"Jl. Kemang Raya No.95, Jakarta Selatan",Jakarta Selatan,-6.269893,106.810577
+MER-00254,Nasi Goreng Pak Kemang,Warung Makan,"Jl. Matraman Raya No.99, Jakarta Timur",Jakarta Timur,-6.254263,106.873159
+MER-00255,Steak Factory Pluit,American Diner,"Jl. Melawai No.212, Jakarta Selatan",Jakarta Selatan,-6.266525,106.823817
+MER-00256,Soto Betawi Pondok Labu,Local Cuisine,"Jl. Pramuka No.222, Jakarta Timur",Jakarta Timur,-6.197755,106.874536
+MER-00257,Soto Betawi Pancoran,Rumah Makan,"Jl. Yos Sudarso No.95, Jakarta Utara",Jakarta Utara,-6.150565,106.871263
+MER-00258,Burger Joint Cilandak,Fast Food,"Jl. Gajah Mada No.163, Jakarta Pusat",Jakarta Pusat,-6.191898,106.81828
+MER-00259,Tom Yum Kelapa Gading,Southeast Asian,"Jl. Sudirman No.249, Jakarta Pusat",Jakarta Pusat,-6.157513,106.829489
+MER-00260,Morning Brew Rawamangun,Coffee Shop,"Jl. Daan Mogot No.149, Jakarta Barat",Jakarta Barat,-6.17595,106.787273
+MER-00261,Bella Italia Cempaka Putih,European,"Jl. Pantai Indah Kapuk No.238, Jakarta Utara",Jakarta Utara,-6.160958,106.851401
+MER-00262,Dragon Palace Thamrin,Hong Kong Style,"Jl. Pemuda No.40, Jakarta Timur",Jakarta Timur,-6.246833,106.916609
+MER-00263,Jack's Burger Matraman,,"Jl. Kemang Raya No.207, Jakarta Selatan",Jakarta Selatan,-6.2756,106.787795
+MER-00264,Ayam Geprek Cilandak,Local Cuisine,"Jl. Kebon Sirih No.13, Jakarta Pusat",Jakarta Pusat,-6.201607,106.825645
+MER-00265,Croissant Jatinegara,Bread Shop,"Jl. Panjang No.32, Jakarta Barat",Jakarta Barat,-6.183309,106.756523
+MER-00266,Izakaya PIK,Japanese Cuisine,"Jl. Pluit Raya No.17, Jakarta Utara",Jakarta Utara,-6.153271,106.882665
+MER-00267,Bingsu Blok M,Ice Cream,"Jl. Kebon Sirih No.111, Jakarta Pusat",Jakarta Pusat,-6.18884,106.814379
+MER-00268,Sakura Grogol,Izakaya,"Jl. Raya Bogor No.9, Jakarta Timur",Jakarta Timur,-6.238501,106.897161
+MER-00269,Udon Ichi Melawai,Izakaya,"Jl. Thamrin No.165, Jakarta Pusat",Jakarta Pusat,-6.199713,106.812534
+MER-00270,Big Bob's Grill Cideng,Western Cuisine,"Jl. Puri Indah No.89, Jakarta Barat",Jakarta Barat,-6.176753,106.761471
+MER-00271,Soto Betawi Menteng,Nasi & Mie,"Jl. Pramuka No.136, Jakarta Timur",Jakarta Timur,-6.208288,106.873915
+MER-00272,Tom Yum Lebak Bulus,Thai Cuisine,"Jl. Panjang No.148, Jakarta Barat",Jakarta Barat,-6.143264,106.732155
+MER-00273,Bean Lab Kebayoran,Coffee & Tea,"Jl. Danau Sunter Utara No.8, Jakarta Utara",Jakarta Utara,-6.120427,106.875758
+MER-00274,Jack's Burger Dharmawangsa,Western,"Jl. Rasuna Said No.60, Jakarta Selatan",Jakarta Selatan,-6.280967,106.782878
+MER-00275,Ice Cream Castle Pondok Indah,Sweet Shop,"Jl. Fatmawati No.16, Jakarta Selatan",Jakarta Selatan,-6.280852,106.828745
+MER-00276,Ayam Geprek Thamrin,Warung Makan,"Jl. Gatot Subroto No.87, Jakarta Selatan",Jakarta Selatan,-6.234985,106.804336
+MER-00277,Izakaya Dharmawangsa,Japanese Cuisine,"Jl. Danau Sunter Utara No.202, Jakarta Utara",Jakarta Utara,-6.158348,106.892025
+MER-00278,Bulgogi Bros Pancoran,,"Jl. Kebon Sirih No.101, Jakarta Pusat",Jakarta Pusat,-6.17277,106.861227
+MER-00279,Dolce Pluit,Pizzeria,"Jl. Pantai Indah Kapuk No.191, Jakarta Utara",Jakarta Utara,-6.162553,106.863671
+MER-00280,Daily Coffee Mampang,Cafe,"Jl. Gatot Subroto No.90, Jakarta Selatan",Jakarta Selatan,-6.275587,106.795572
+MER-00281,Donburi Kuningan,Ramen Shop,"Jl. DI Panjaitan No.97, Jakarta Timur",Jakarta Timur,-6.225415,106.893123
+MER-00282,Burger Joint Kuningan,Fast Food,"Jl. Rasuna Said No.82, Jakarta Selatan",Jakarta Selatan,-6.243548,106.782605
+MER-00283,Izakaya Thamrin,Japanese Cuisine,"Jl. Pondok Indah No.181, Jakarta Selatan",Jakarta Selatan,-6.237613,106.786186
+MER-00284,Warung Mampang,Local Cuisine,"Jl. Menteng Raya No.237, Jakarta Pusat",Jakarta Pusat,-6.205101,106.846132
+MER-00285,Rendang Rumah Cawang,Rumah Makan,"Jl. Rasuna Said No.110, Jakarta Selatan",Jakarta Selatan,-6.262043,106.78387
+MER-00286,Bakso PIK,Local Cuisine,"Jl. Pondok Indah No.126, Jakarta Selatan",Jakarta Selatan,-6.284569,106.827693
+MER-00287,Rendang Rumah Bendungan Hilir,Indonesian,"Jl. Gajah Mada No.58, Jakarta Pusat",Jakarta Pusat,-6.213823,106.830684
+MER-00288,Ayam Geprek Lebak Bulus,,"Jl. Rasuna Said No.216, Jakarta Selatan",Jakarta Selatan,-6.246113,106.794251
+MER-00289,Kopi Cawang,Specialty Coffee,"Jl. Pemuda No.129, Jakarta Timur",Jakarta Timur,-6.226424,106.875137
+MER-00290,Bella Italia Matraman,Italian,"Jl. Thamrin No.33, Jakarta Pusat",Jakarta Pusat,-6.157438,106.86263
+MER-00291,Rooftop Lounge Cilandak,Wine Bar,"Jl. Daan Mogot No.23, Jakarta Barat",Jakarta Barat,-6.182827,106.783448
+MER-00292,Golden Wok Pulogadung,,"Jl. Kemang Raya No.146, Jakarta Selatan",Jakarta Selatan,-6.266324,106.805467
+MER-00293,Warung Pancoran,Rumah Makan,"Jl. Matraman Raya No.99, Jakarta Timur",Jakarta Timur,-6.202192,106.923074
+MER-00294,Rendang Rumah Kemang,Local Cuisine,"Jl. Rasuna Said No.191, Jakarta Selatan",Jakarta Selatan,-6.238763,106.822031
+MER-00295,Espresso House Tanah Abang,Coffee Shop,"Jl. Gatot Subroto No.249, Jakarta Selatan",Jakarta Selatan,-6.262003,106.822371
+MER-00296,Espresso House Pasar Minggu,Coffee & Pastry,"Jl. Puri Indah No.55, Jakarta Barat",Jakarta Barat,-6.162001,106.734157
+MER-00297,Daily Coffee Antasari,Specialty Coffee,"Jl. Puri Indah No.35, Jakarta Barat",Jakarta Barat,-6.194363,106.771374
+MER-00298,Soto Betawi Senayan,Rumah Makan,"Jl. Menteng Raya No.51, Jakarta Pusat",Jakarta Pusat,-6.189113,106.859382
+MER-00299,Nasi Goreng Pak Kebayoran,Southeast Asian,"Jl. Pondok Indah No.151, Jakarta Selatan",Jakarta Selatan,-6.255857,106.791255
+MER-00300,QuickBite Pancoran,Quick Service,"Jl. Thamrin No.220, Jakarta Pusat",Jakarta Pusat,-6.213521,106.855529
+MER-00301,Tokyo Ramen Sudirman,,"Jl. Rasuna Said No.58, Jakarta Selatan",Jakarta Selatan,-6.283561,106.790992
+MER-00302,Chicken Rush Cempaka Putih,QSR,"Jl. Raya Bogor No.120, Jakarta Timur",Jakarta Timur,-6.203905,106.89794
+MER-00303,Ayam Geprek Jatinegara,Local Cuisine,"Jl. Pluit Raya No.124, Jakarta Utara",Jakarta Utara,-6.132257,106.851809
+MER-00304,Bakso Fatmawati,Warung Makan,"Jl. Kebon Sirih No.104, Jakarta Pusat",Jakarta Pusat,-6.170572,106.858281
+MER-00305,Craft Beer Rawamangun,Pub,"Jl. Senopati No.88, Jakarta Selatan",Jakarta Selatan,-6.247296,106.815581
+MER-00306,Dim Sum Antasari,Hong Kong Style,"Jl. Casablanca No.47, Jakarta Selatan",Jakarta Selatan,-6.281301,106.820057
+MER-00307,Bean Lab Mampang,Coffee & Tea,"Jl. Pantai Indah Kapuk No.108, Jakarta Utara",Jakarta Utara,-6.155465,106.8473
+MER-00308,Golden Wok Melawai,Chinese Restaurant,"Jl. Kebon Sirih No.19, Jakarta Pusat",Jakarta Pusat,-6.178436,106.839119
+MER-00309,Sakura Rawamangun,Izakaya,"Jl. Thamrin No.88, Jakarta Pusat",Jakarta Pusat,-6.165246,106.812542
+MER-00310,Sate Khas PIK,Nasi & Mie,"Jl. Rasuna Said No.2, Jakarta Selatan",Jakarta Selatan,-6.253638,106.791209
+MER-00311,Kopi PIK,Cafe,"Jl. Hayam Wuruk No.248, Jakarta Pusat",Jakarta Pusat,-6.190477,106.830065
+MER-00312,Tokyo Ramen Setiabudi,Japanese Restaurant,"Jl. Daan Mogot No.161, Jakarta Barat",Jakarta Barat,-6.166438,106.729875
+MER-00313,Rendang Rumah Antasari,,"Jl. Pantai Indah Kapuk No.243, Jakarta Utara",Jakarta Utara,-6.158779,106.883331
+MER-00314,Bean Lab Mampang,Coffee & Pastry,"Jl. Raya Bogor No.243, Jakarta Timur",Jakarta Timur,-6.225589,106.915407
+MER-00315,The Wine Cellar Menteng,Lounge,"Jl. Pluit Raya No.97, Jakarta Utara",Jakarta Utara,-6.158661,106.855895
+MER-00316,Bella Italia Kelapa Gading,Trattoria,"Jl. Yos Sudarso No.114, Jakarta Utara",Jakarta Utara,-6.167615,106.875285
+MER-00317,Nasi Goreng Pak Tanah Abang,Indonesian Restaurant,"Jl. Kemang Raya No.108, Jakarta Selatan",Jakarta Selatan,-6.285441,106.811819
+MER-00318,Seoul BBQ Dharmawangsa,Grill House,"Jl. Kebon Sirih No.250, Jakarta Pusat",Jakarta Pusat,-6.204515,106.82008
+MER-00319,Jack's Burger Melawai,Grill House,"Jl. Gatot Subroto No.214, Jakarta Selatan",Jakarta Selatan,-6.291336,106.820898
+MER-00320,Golden Wok Tebet,,"Jl. Pantai Indah Kapuk No.119, Jakarta Utara",Jakarta Utara,-6.141395,106.892537
+MER-00321,Bulgogi Bros Setiabudi,Grill House,"Jl. Rasuna Said No.3, Jakarta Selatan",Jakarta Selatan,-6.284546,106.831675
+MER-00322,Morning Brew Pasar Minggu,Coffee & Pastry,"Jl. Raya Bogor No.30, Jakarta Timur",Jakarta Timur,-6.249423,106.919298
+MER-00323,Kopi Kuningan,Specialty Coffee,"Jl. Thamrin No.27, Jakarta Pusat",Jakarta Pusat,-6.17473,106.807819
+MER-00324,Udon Ichi Cideng,Japanese,"Jl. Panjang No.124, Jakarta Barat",Jakarta Barat,-6.161618,106.780555
+MER-00325,Ayam Geprek Sudirman,Southeast Asian,"Jl. Letjen S. Parman No.186, Jakarta Barat",Jakarta Barat,-6.157624,106.774852
+MER-00326,Pasta Bar Kebayoran,Trattoria,"Jl. Kemang Raya No.215, Jakarta Selatan",Jakarta Selatan,-6.251677,106.819084
+MER-00327,Gado-Gado Dharmawangsa,Indonesian,"Jl. Raya Bogor No.85, Jakarta Timur",Jakarta Timur,-6.250508,106.899899
+MER-00328,Sushi Yama PIK,Ramen Shop,"Jl. Pondok Indah No.115, Jakarta Selatan",Jakarta Selatan,-6.243424,106.807486
+MER-00329,Tokyo Ramen Jatinegara,Japanese Restaurant,"Jl. Melawai No.228, Jakarta Selatan",Jakarta Selatan,-6.241945,106.828107
+MER-00330,Seoul BBQ Pluit,Korean BBQ,"Jl. Letjen S. Parman No.122, Jakarta Barat",Jakarta Barat,-6.178382,106.774845
+MER-00331,Burger Joint Sudirman,,"Jl. Melawai No.141, Jakarta Selatan",Jakarta Selatan,-6.241707,106.838466
+MER-00332,Mala House Kelapa Gading,,"Jl. Cilandak No.56, Jakarta Selatan",Jakarta Selatan,-6.279745,106.787845
+MER-00333,QuickBite Pulogadung,Fried Chicken,"Jl. Kebon Sirih No.245, Jakarta Pusat",Jakarta Pusat,-6.162995,106.831743
+MER-00334,Steak Factory Pulogadung,European,"Jl. Kemang Raya No.178, Jakarta Selatan",Jakarta Selatan,-6.261,106.83587
+MER-00335,Tom Yum Antasari,Southeast Asian,"Jl. Raya Bogor No.71, Jakarta Timur",Jakarta Timur,-6.22988,106.90694
+MER-00336,Rendang Rumah Kemayoran,,"Jl. Letjen S. Parman No.221, Jakarta Barat",Jakarta Barat,-6.153394,106.746735
+MER-00337,Trattoria Senopati,European,"Jl. Raya Bogor No.129, Jakarta Timur",Jakarta Timur,-6.24704,106.913024
+MER-00338,Donburi Pulogadung,Ramen Shop,"Jl. Danau Sunter Utara No.74, Jakarta Utara",Jakarta Utara,-6.128771,106.858949
+MER-00339,Sate Khas Senayan,Warung Makan,"Jl. Boulevard Kelapa Gading No.74, Jakarta Utara",Jakarta Utara,-6.156806,106.878911
+MER-00340,K-Street Kemang,Grill House,"Jl. Casablanca No.222, Jakarta Selatan",Jakarta Selatan,-6.264344,106.817567
+MER-00341,Latte Art Pancoran,,"Jl. Yos Sudarso No.245, Jakarta Utara",Jakarta Utara,-6.165981,106.856795
+MER-00342,Bakso Fatmawati,Southeast Asian,"Jl. Boulevard Kelapa Gading No.234, Jakarta Utara",Jakarta Utara,-6.121945,106.886107
+MER-00343,Pizza Roma Pancoran,Pasta Bar,"Jl. Kemang Raya No.189, Jakarta Selatan",Jakarta Selatan,-6.232493,106.785068
+MER-00344,Sate Khas Pulogadung,Southeast Asian,"Jl. Panjang No.11, Jakarta Barat",Jakarta Barat,-6.197961,106.75678
+MER-00345,Trattoria Dharmawangsa,Italian Restaurant,"Jl. Kyai Tapa No.135, Jakarta Barat",Jakarta Barat,-6.16529,106.733173
+MER-00346,Rendang Rumah PIK,,"Jl. Fatmawati No.93, Jakarta Selatan",Jakarta Selatan,-6.238496,106.8204
+MER-00347,QuickBite Blok M,Fast Food,"Jl. Danau Sunter Utara No.236, Jakarta Utara",Jakarta Utara,-6.14206,106.88817
+MER-00348,Sweet Dreams Cideng,Sweet Shop,"Jl. Casablanca No.211, Jakarta Selatan",Jakarta Selatan,-6.248061,106.782082
+MER-00349,Soto Betawi Setiabudi,Indonesian Restaurant,"Jl. Casablanca No.137, Jakarta Selatan",Jakarta Selatan,-6.234607,106.790644
+MER-00350,Rendang Rumah Kelapa Gading,Indonesian Restaurant,"Jl. Menteng Raya No.199, Jakarta Pusat",Jakarta Pusat,-6.166775,106.857018
+MER-00351,Dim Sum Kemang,Chinese Restaurant,"Jl. Kebon Sirih No.19, Jakarta Pusat",Jakarta Pusat,-6.213244,106.851953
+MER-00352,Mala House Cempaka Putih,Chinese,"Jl. Rasuna Said No.165, Jakarta Selatan",Jakarta Selatan,-6.26813,106.787698
+MER-00353,QuickBite Senopati,Fried Chicken,"Jl. Matraman Raya No.156, Jakarta Timur",Jakarta Timur,-6.248632,106.917614
+MER-00354,Sate Khas Lebak Bulus,Warung Makan,"Jl. Kebon Sirih No.76, Jakarta Pusat",Jakarta Pusat,-6.171695,106.852106
+MER-00355,Pastry Lab Sudirman,Patisserie,"Jl. Pluit Raya No.147, Jakarta Utara",Jakarta Utara,-6.135496,106.841294
+MER-00356,Ayam Geprek Grogol,Local Cuisine,"Jl. Kemang Raya No.48, Jakarta Selatan",Jakarta Selatan,-6.252744,106.811353
+MER-00357,Daily Coffee Jatinegara,,"Jl. Gatot Subroto No.65, Jakarta Selatan",Jakarta Selatan,-6.25852,106.798039
+MER-00358,Izakaya Kebayoran,Izakaya,"Jl. Gajah Mada No.125, Jakarta Pusat",Jakarta Pusat,-6.179329,106.858307
+MER-00359,Ayam Geprek Setiabudi,Traditional Indonesian,"Jl. Raya Bogor No.183, Jakarta Timur",Jakarta Timur,-6.244882,106.889193
+MER-00360,Tom Yum Melawai,,"Jl. Casablanca No.28, Jakarta Selatan",Jakarta Selatan,-6.269976,106.798928
+MER-00361,Morning Brew Fatmawati,Specialty Coffee,"Jl. Gatot Subroto No.229, Jakarta Selatan",Jakarta Selatan,-6.23832,106.785188
+MER-00362,The Diner Grogol,Steakhouse,"Jl. DI Panjaitan No.121, Jakarta Timur",Jakarta Timur,-6.221904,106.903008
+MER-00363,Latte Art Pancoran,Coffee Shop,"Jl. Gajah Mada No.129, Jakarta Pusat",Jakarta Pusat,-6.186433,106.809733
+MER-00364,Pizza Roma Antasari,Italian Restaurant,"Jl. Kebon Sirih No.169, Jakarta Pusat",Jakarta Pusat,-6.206947,106.838281
+MER-00365,Sushi Yama Dharmawangsa,,"Jl. Menteng Raya No.53, Jakarta Pusat",Jakarta Pusat,-6.200639,106.818341
+MER-00366,Golden Wok Kemang,,"Jl. DI Panjaitan No.163, Jakarta Timur",Jakarta Timur,-6.235556,106.912624
+MER-00367,Steak Factory Cideng,Steakhouse,"Jl. Casablanca No.65, Jakarta Selatan",Jakarta Selatan,-6.2523,106.830728
+MER-00368,Kopi Melawai,Specialty Coffee,"Jl. Pramuka No.43, Jakarta Timur",Jakarta Timur,-6.254604,106.923322
+MER-00369,Ayam Geprek Kemayoran,Rumah Makan,"Jl. Kyai Tapa No.185, Jakarta Barat",Jakarta Barat,-6.1912,106.742621
+MER-00370,Pad Thai Menteng,,"Jl. Thamrin No.162, Jakarta Pusat",Jakarta Pusat,-6.208827,106.839841
+MER-00371,Churros Kemayoran,Ice Cream,"Jl. Matraman Raya No.243, Jakarta Timur",Jakarta Timur,-6.216743,106.923111
+MER-00372,Dragon Palace Rawamangun,Dim Sum House,"Jl. Boulevard Kelapa Gading No.160, Jakarta Utara",Jakarta Utara,-6.121123,106.883127
+MER-00373,Sweet Dreams Pluit,,"Jl. Casablanca No.221, Jakarta Selatan",Jakarta Selatan,-6.283567,106.781594
+MER-00374,Gado-Gado Kemayoran,Warung Makan,"Jl. Sudirman No.24, Jakarta Pusat",Jakarta Pusat,-6.169468,106.8345
+MER-00375,Rendang Rumah Pondok Labu,Rumah Makan,"Jl. Cilandak No.59, Jakarta Selatan",Jakarta Selatan,-6.239011,106.822459
+MER-00376,Dolce Kelapa Gading,Trattoria,"Jl. Gatot Subroto No.73, Jakarta Selatan",Jakarta Selatan,-6.276229,106.826552
+MER-00377,QuickBite Cawang,Fried Chicken,"Jl. Senopati No.177, Jakarta Selatan",Jakarta Selatan,-6.260314,106.803102
+MER-00378,Tom Yum Tebet,Thai Restaurant,"Jl. Matraman Raya No.175, Jakarta Timur",Jakarta Timur,-6.229586,106.892339
+MER-00379,Dim Sum Jatinegara,Noodle House,"Jl. Pantai Indah Kapuk No.199, Jakarta Utara",Jakarta Utara,-6.153573,106.852299
+MER-00380,Soto Betawi Matraman,,"Jl. Letjen S. Parman No.103, Jakarta Barat",Jakarta Barat,-6.141345,106.734817
+MER-00381,Rendang Rumah Sudirman,Local Cuisine,"Jl. Letjen S. Parman No.112, Jakarta Barat",Jakarta Barat,-6.148905,106.7571
+MER-00382,Rendang Rumah Ancol,Warung Makan,"Jl. Danau Sunter Utara No.15, Jakarta Utara",Jakarta Utara,-6.13754,106.876596
+MER-00383,Bakso Fatmawati,Indonesian,"Jl. Thamrin No.158, Jakarta Pusat",Jakarta Pusat,-6.180529,106.835249
+MER-00384,Baker's Daily Pasar Minggu,,"Jl. Letjen S. Parman No.52, Jakarta Barat",Jakarta Barat,-6.177112,106.752509
+MER-00385,The Diner Pulogadung,Western Cuisine,"Jl. Senopati No.117, Jakarta Selatan",Jakarta Selatan,-6.233703,106.79719
+MER-00386,Hong Kong Thamrin,Chinese Cuisine,"Jl. Casablanca No.245, Jakarta Selatan",Jakarta Selatan,-6.271102,106.787621
+MER-00387,Fry Lab Cawang,QSR,"Jl. Pondok Indah No.175, Jakarta Selatan",Jakarta Selatan,-6.276904,106.80098
+MER-00388,Rendang Rumah Pluit,Local Cuisine,"Jl. Pantai Indah Kapuk No.133, Jakarta Utara",Jakarta Utara,-6.155004,106.852844
+MER-00389,Tom Yum Thamrin,Thai Restaurant,"Jl. Boulevard Kelapa Gading No.229, Jakarta Utara",Jakarta Utara,-6.158091,106.852732
+MER-00390,Churros Fatmawati,Sweet Shop,"Jl. Thamrin No.52, Jakarta Pusat",Jakarta Pusat,-6.201977,106.820224
+MER-00391,Warung Dharmawangsa,Southeast Asian,"Jl. Pluit Raya No.218, Jakarta Utara",Jakarta Utara,-6.122945,106.866388
+MER-00392,Espresso House Dharmawangsa,Coffee Shop,"Jl. Hayam Wuruk No.57, Jakarta Pusat",Jakarta Pusat,-6.170644,106.834968
+MER-00393,Hong Kong Kemang,Noodle House,"Jl. Kemang Raya No.118, Jakarta Selatan",Jakarta Selatan,-6.267877,106.82178
+MER-00394,Soto Betawi Cideng,Nasi & Mie,"Jl. Pantai Indah Kapuk No.48, Jakarta Utara",Jakarta Utara,-6.149274,106.870667
+MER-00395,Oppa Chicken Dharmawangsa,Korean Grill,"Jl. Fatmawati No.219, Jakarta Selatan",Jakarta Selatan,-6.266354,106.825732
+MER-00396,Jack's Burger Kelapa Gading,European,"Jl. Puri Indah No.51, Jakarta Barat",Jakarta Barat,-6.150055,106.76212
+MER-00397,Gado-Gado Pondok Indah,Local Cuisine,"Jl. Matraman Raya No.202, Jakarta Timur",Jakarta Timur,-6.204037,106.90142
+MER-00398,Izakaya Kuningan,Sushi Bar,"Jl. Menteng Raya No.25, Jakarta Pusat",Jakarta Pusat,-6.167671,106.832892
+MER-00399,Smokehouse Senopati,European,"Jl. Kebon Sirih No.51, Jakarta Pusat",Jakarta Pusat,-6.209226,106.856342
+MER-00400,Espresso House Setiabudi,Coffee & Pastry,"Jl. Pluit Raya No.98, Jakarta Utara",Jakarta Utara,-6.13955,106.878092
+MER-00401,Ayam Geprek Rawamangun,Nasi & Mie,"Jl. Pluit Raya No.21, Jakarta Utara",Jakarta Utara,-6.134502,106.884834
+MER-00402,Fry Lab Pasar Minggu,Fried Chicken,"Jl. DI Panjaitan No.134, Jakarta Timur",Jakarta Timur,-6.208142,106.926726
+MER-00403,Soto Betawi Tebet,Indonesian Restaurant,"Jl. Raya Bogor No.102, Jakarta Timur",Jakarta Timur,-6.212958,106.875204
+MER-00404,Rendang Rumah Pondok Labu,Traditional Indonesian,"Jl. Panjang No.22, Jakarta Barat",Jakarta Barat,-6.193305,106.744547
+MER-00405,Bulgogi Bros Pondok Indah,Korean BBQ,"Jl. Menteng Raya No.92, Jakarta Pusat",Jakarta Pusat,-6.166189,106.806014
+MER-00406,Espresso House Jatinegara,,"Jl. Kemang Raya No.152, Jakarta Selatan",Jakarta Selatan,-6.233327,106.822457
+MER-00407,Izakaya Lebak Bulus,Ramen Shop,"Jl. Gatot Subroto No.114, Jakarta Selatan",Jakarta Selatan,-6.27067,106.81298
+MER-00408,Sate Khas Senopati,Local Cuisine,"Jl. Pondok Indah No.243, Jakarta Selatan",Jakarta Selatan,-6.259394,106.821866
+MER-00409,Oppa Chicken Sudirman,Grill House,"Jl. Cilandak No.102, Jakarta Selatan",Jakarta Selatan,-6.280186,106.83353
+MER-00410,Sakura PIK,Izakaya,"Jl. Melawai No.73, Jakarta Selatan",Jakarta Selatan,-6.277126,106.826472
+MER-00411,Bean Lab Pondok Indah,Coffee Shop,"Jl. Melawai No.180, Jakarta Selatan",Jakarta Selatan,-6.253286,106.817664
+MER-00412,Baker's Daily Cikini,Bakery,"Jl. Pramuka No.187, Jakarta Timur",Jakarta Timur,-6.238073,106.877902
+MER-00413,Kimchi House Dharmawangsa,Korean Restaurant,"Jl. Matraman Raya No.21, Jakarta Timur",Jakarta Timur,-6.227179,106.917885
+MER-00414,Gado-Gado Cikini,Nasi & Mie,"Jl. Sudirman No.32, Jakarta Pusat",Jakarta Pusat,-6.166008,106.853335
+MER-00415,Nasi Goreng Pak Fatmawati,Local Cuisine,"Jl. Senopati No.122, Jakarta Selatan",Jakarta Selatan,-6.24524,106.811868
+MER-00416,QuickBite Tebet,Fast Food,"Jl. Rasuna Said No.222, Jakarta Selatan",Jakarta Selatan,-6.273571,106.802226
+MER-00417,Bakso Pulogadung,Rumah Makan,"Jl. Sudirman No.149, Jakarta Pusat",Jakarta Pusat,-6.169151,106.804836
+MER-00418,Bean Lab Kuningan,Coffee Shop,"Jl. Rasuna Said No.16, Jakarta Selatan",Jakarta Selatan,-6.250343,106.800905
+MER-00419,Soto Betawi Setiabudi,Traditional Indonesian,"Jl. Pramuka No.188, Jakarta Timur",Jakarta Timur,-6.207686,106.915802
+MER-00420,Kopi Matraman,Coffee & Tea,"Jl. Danau Sunter Utara No.48, Jakarta Utara",Jakarta Utara,-6.136236,106.863306
+MER-00421,Morning Brew Kuningan,Cafe,"Jl. Gajah Mada No.139, Jakarta Pusat",Jakarta Pusat,-6.207198,106.82204
+MER-00422,QuickBite Bendungan Hilir,QSR,"Jl. Letjen S. Parman No.210, Jakarta Barat",Jakarta Barat,-6.183973,106.77206
+MER-00423,Bakso Setiabudi,Warung Makan,"Jl. Gatot Subroto No.12, Jakarta Selatan",Jakarta Selatan,-6.272179,106.786375
+MER-00424,Soto Betawi Kelapa Gading,Local Cuisine,"Jl. Hayam Wuruk No.135, Jakarta Pusat",Jakarta Pusat,-6.177995,106.827616
+MER-00425,QuickBite Grogol,Burger & Fries,"Jl. Yos Sudarso No.206, Jakarta Utara",Jakarta Utara,-6.113096,106.883825
+MER-00426,Sakura Senayan,Japanese Restaurant,"Jl. Daan Mogot No.214, Jakarta Barat",Jakarta Barat,-6.182351,106.731239
+MER-00427,Fry Lab Fatmawati,Fried Chicken,"Jl. Thamrin No.143, Jakarta Pusat",Jakarta Pusat,-6.177087,106.838502
+MER-00428,Steak Factory Cempaka Putih,Steakhouse,"Jl. Pramuka No.130, Jakarta Timur",Jakarta Timur,-6.244991,106.881224
+MER-00429,Bingsu Jatinegara,Sweet Shop,"Jl. Pramuka No.212, Jakarta Timur",Jakarta Timur,-6.235521,106.892703
+MER-00430,Udon Ichi Tebet,Sushi Bar,"Jl. Rasuna Said No.186, Jakarta Selatan",Jakarta Selatan,-6.264356,106.838189
+MER-00431,Craft Beer Sudirman,,"Jl. Rasuna Said No.198, Jakarta Selatan",Jakarta Selatan,-6.278187,106.831943
+MER-00432,Hong Kong Cawang,Chinese Cuisine,"Jl. Thamrin No.68, Jakarta Pusat",Jakarta Pusat,-6.214236,106.825639
+MER-00433,K-Street Ancol,Korean Grill,"Jl. Pantai Indah Kapuk No.203, Jakarta Utara",Jakarta Utara,-6.155754,106.838532
+MER-00434,Big Bob's Grill Kemayoran,,"Jl. Yos Sudarso No.21, Jakarta Utara",Jakarta Utara,-6.166558,106.8824
+MER-00435,Tokyo Ramen Pluit,Japanese,"Jl. Puri Indah No.14, Jakarta Barat",Jakarta Barat,-6.147331,106.784519
+MER-00436,Bulgogi Bros Pluit,K-Food,"Jl. Hayam Wuruk No.193, Jakarta Pusat",Jakarta Pusat,-6.176082,106.864142
+MER-00437,Bean Lab Pondok Indah,Coffee & Pastry,"Jl. Casablanca No.103, Jakarta Selatan",Jakarta Selatan,-6.262949,106.825319
+MER-00438,Sate Khas Melawai,,"Jl. Boulevard Kelapa Gading No.144, Jakarta Utara",Jakarta Utara,-6.139528,106.873035
+MER-00439,Espresso House Cawang,Specialty Coffee,"Jl. Gajah Mada No.49, Jakarta Pusat",Jakarta Pusat,-6.176195,106.829712
+MER-00440,Ayam Geprek Matraman,Warung Makan,"Jl. Boulevard Kelapa Gading No.52, Jakarta Utara",Jakarta Utara,-6.142372,106.889353
+MER-00441,Nasi Goreng Pak Kebayoran,Indonesian Restaurant,"Jl. Matraman Raya No.4, Jakarta Timur",Jakarta Timur,-6.199396,106.922525
+MER-00442,Bulgogi Bros Lebak Bulus,Korean Restaurant,"Jl. Kebon Sirih No.124, Jakarta Pusat",Jakarta Pusat,-6.183715,106.849321
+MER-00443,Izakaya Pondok Labu,Ramen Shop,"Jl. Menteng Raya No.159, Jakarta Pusat",Jakarta Pusat,-6.206281,106.821341
+MER-00444,Sakura Bendungan Hilir,Izakaya,"Jl. Pramuka No.60, Jakarta Timur",Jakarta Timur,-6.253855,106.922445
+MER-00445,K-Street Lebak Bulus,Korean,"Jl. Kebon Sirih No.238, Jakarta Pusat",Jakarta Pusat,-6.204567,106.862307
+MER-00446,Han Kook Kuningan,K-Food,"Jl. Gajah Mada No.61, Jakarta Pusat",Jakarta Pusat,-6.175441,106.825623
+MER-00447,Rendang Rumah Menteng,Warung Makan,"Jl. Matraman Raya No.230, Jakarta Timur",Jakarta Timur,-6.198053,106.883935
+MER-00448,Fresh Bread Rawamangun,Bread Shop,"Jl. Kebon Sirih No.85, Jakarta Pusat",Jakarta Pusat,-6.207335,106.862532
+MER-00449,Jack's Burger Pondok Indah,,"Jl. Kemang Raya No.111, Jakarta Selatan",Jakarta Selatan,-6.249192,106.812028
+MER-00450,Bingsu Thamrin,,"Jl. Pantai Indah Kapuk No.215, Jakarta Utara",Jakarta Utara,-6.111884,106.841003
+MER-00451,Croissant Tanah Abang,Bakery,"Jl. Melawai No.39, Jakarta Selatan",Jakarta Selatan,-6.235474,106.834248
+MER-00452,Rooftop Lounge Pasar Minggu,Bar,"Jl. Boulevard Kelapa Gading No.176, Jakarta Utara",Jakarta Utara,-6.132058,106.869682
+MER-00453,Hong Kong Melawai,Chinese Restaurant,"Jl. Puri Indah No.122, Jakarta Barat",Jakarta Barat,-6.175862,106.779928
+MER-00454,Pastry Lab Rawamangun,Boulangerie,"Jl. Thamrin No.17, Jakarta Pusat",Jakarta Pusat,-6.17622,106.81647
+MER-00455,Han Kook Kebayoran,K-Food,"Jl. Cilandak No.185, Jakarta Selatan",Jakarta Selatan,-6.244927,106.817076
+MER-00456,Big Bob's Grill Pondok Labu,European,"Jl. Thamrin No.133, Jakarta Pusat",Jakarta Pusat,-6.189086,106.856966
+MER-00457,Daily Coffee Fatmawati,Coffee & Tea,"Jl. Melawai No.119, Jakarta Selatan",Jakarta Selatan,-6.267618,106.798873
+MER-00458,Dragon Palace Salemba,Noodle House,"Jl. Daan Mogot No.47, Jakarta Barat",Jakarta Barat,-6.171198,106.772159
+MER-00459,Seoul BBQ Cikini,Grill House,"Jl. Pondok Indah No.24, Jakarta Selatan",Jakarta Selatan,-6.237703,106.834348
+MER-00460,Warung PIK,,"Jl. Kebon Sirih No.182, Jakarta Pusat",Jakarta Pusat,-6.189536,106.826077
+MER-00461,Big Bob's Grill Kuningan,Steakhouse,"Jl. Raya Bogor No.42, Jakarta Timur",Jakarta Timur,-6.221071,106.909972
+MER-00462,Bulgogi Bros Matraman,Korean BBQ,"Jl. Senopati No.1, Jakarta Selatan",Jakarta Selatan,-6.280658,106.834513
+MER-00463,Golden Wok Kemayoran,Chinese,"Jl. Pramuka No.117, Jakarta Timur",Jakarta Timur,-6.240727,106.905732
+MER-00464,Espresso House Jatinegara,Coffee Shop,"Jl. Daan Mogot No.168, Jakarta Barat",Jakarta Barat,-6.185842,106.73989
+MER-00465,Espresso House Mampang,Specialty Coffee,"Jl. Raya Bogor No.42, Jakarta Timur",Jakarta Timur,-6.252058,106.895417
+MER-00466,The Diner Cikini,American Diner,"Jl. Pemuda No.24, Jakarta Timur",Jakarta Timur,-6.21004,106.892011
+MER-00467,Rendang Rumah Jatinegara,,"Jl. Gajah Mada No.85, Jakarta Pusat",Jakarta Pusat,-6.188251,106.811621
+MER-00468,Warung Melawai,Southeast Asian,"Jl. Kyai Tapa No.110, Jakarta Barat",Jakarta Barat,-6.162013,106.776091
+MER-00469,Pizza Roma Cawang,European,"Jl. Kemang Raya No.227, Jakarta Selatan",Jakarta Selatan,-6.247749,106.810464
+MER-00470,Gado-Gado Blok M,Southeast Asian,"Jl. Puri Indah No.106, Jakarta Barat",Jakarta Barat,-6.18586,106.765718
+MER-00471,Soto Betawi Pancoran,Indonesian Restaurant,"Jl. Casablanca No.83, Jakarta Selatan",Jakarta Selatan,-6.28743,106.798617
+MER-00472,QuickBite Cikini,Fast Food,"Jl. Hayam Wuruk No.235, Jakarta Pusat",Jakarta Pusat,-6.16647,106.859637
+MER-00473,Dolce Mampang,Trattoria,"Jl. Rasuna Said No.214, Jakarta Selatan",Jakarta Selatan,-6.24265,106.836267
+MER-00474,Jack's Burger Cawang,American Diner,"Jl. Pantai Indah Kapuk No.17, Jakarta Utara",Jakarta Utara,-6.120828,106.887182
+MER-00475,Udon Ichi Kuningan,Japanese Cuisine,"Jl. Pantai Indah Kapuk No.181, Jakarta Utara",Jakarta Utara,-6.145426,106.869612
+MER-00476,Dragon Palace Bendungan Hilir,,"Jl. Melawai No.45, Jakarta Selatan",Jakarta Selatan,-6.234456,106.793568
+MER-00477,Nasi Goreng Pak Melawai,Local Cuisine,"Jl. Pramuka No.188, Jakarta Timur",Jakarta Timur,-6.245755,106.890807
+MER-00478,Morning Brew Pondok Indah,Cafe,"Jl. Kebon Sirih No.30, Jakarta Pusat",Jakarta Pusat,-6.214307,106.827555
+MER-00479,Gado-Gado Kemang,Nasi & Mie,"Jl. Sudirman No.148, Jakarta Pusat",Jakarta Pusat,-6.170529,106.849033
+MER-00480,Ayam Geprek Matraman,,"Jl. Pluit Raya No.4, Jakarta Utara",Jakarta Utara,-6.152441,106.84335
+MER-00481,Sakura Pasar Minggu,Izakaya,"Jl. Thamrin No.44, Jakarta Pusat",Jakarta Pusat,-6.174239,106.821296
+MER-00482,Nasi Goreng Pak Melawai,Rumah Makan,"Jl. Pemuda No.110, Jakarta Timur",Jakarta Timur,-6.251973,106.893416
+MER-00483,Latte Art Lebak Bulus,,"Jl. Kebon Sirih No.34, Jakarta Pusat",Jakarta Pusat,-6.161133,106.850166
+MER-00484,Fry Lab Melawai,Fried Chicken,"Jl. Kebon Sirih No.67, Jakarta Pusat",Jakarta Pusat,-6.203072,106.855966
+MER-00485,Kimchi House Salemba,Korean BBQ,"Jl. Pondok Indah No.119, Jakarta Selatan",Jakarta Selatan,-6.287578,106.787373
+MER-00486,Warung Ancol,Rumah Makan,"Jl. Daan Mogot No.203, Jakarta Barat",Jakarta Barat,-6.150495,106.748352
+MER-00487,Dolce Kuningan,Pasta Bar,"Jl. DI Panjaitan No.111, Jakarta Timur",Jakarta Timur,-6.231971,106.890843
+MER-00488,Burger Joint Thamrin,Burger & Fries,"Jl. Daan Mogot No.152, Jakarta Barat",Jakarta Barat,-6.155585,106.779005
+MER-00489,Rendang Rumah Thamrin,Indonesian,"Jl. Yos Sudarso No.84, Jakarta Utara",Jakarta Utara,-6.127669,106.869684
+MER-00490,Latte Art Sudirman,Coffee & Pastry,"Jl. Kyai Tapa No.100, Jakarta Barat",Jakarta Barat,-6.158647,106.755978
+MER-00491,K-Street Tanah Abang,K-Food,"Jl. Matraman Raya No.23, Jakarta Timur",Jakarta Timur,-6.198799,106.913467
+MER-00492,Bakso Senayan,Indonesian Restaurant,"Jl. Casablanca No.211, Jakarta Selatan",Jakarta Selatan,-6.258567,106.783788
+MER-00493,Rendang Rumah Setiabudi,Warung Makan,"Jl. Panjang No.170, Jakarta Barat",Jakarta Barat,-6.173938,106.754911
+MER-00494,Churros Cilandak,Dessert Shop,"Jl. Rasuna Said No.19, Jakarta Selatan",Jakarta Selatan,-6.239136,106.788133
+MER-00495,Sushi Yama PIK,Izakaya,"Jl. Menteng Raya No.155, Jakarta Pusat",Jakarta Pusat,-6.168144,106.855909
+MER-00496,Steak Factory Cideng,European,"Jl. Pondok Indah No.217, Jakarta Selatan",Jakarta Selatan,-6.280353,106.816874
+MER-00497,Smokehouse Kemang,European,"Jl. Pemuda No.149, Jakarta Timur",Jakarta Timur,-6.220911,106.912693
+MER-00498,Smokehouse Salemba,European,"Jl. Senopati No.121, Jakarta Selatan",Jakarta Selatan,-6.260099,106.817204
+MER-00499,Dolce Tanah Abang,Pasta Bar,"Jl. Pluit Raya No.121, Jakarta Utara",Jakarta Utara,-6.114585,106.866002
+MER-00500,Sakura Pancoran,Sushi Bar,"Jl. Gajah Mada No.187, Jakarta Pusat",Jakarta Pusat,-6.174797,106.840158
+MER-00501,Nasi Goreng Pak Pancoran,Local Cuisine,"Jl. Daan Mogot No.33, Jakarta Barat",Jakarta Barat,-6.160841,106.746009
+MER-00502,Bakso Sudirman,Warung Makan,"Jl. Panjang No.169, Jakarta Barat",Jakarta Barat,-6.162071,106.783408
+MER-00503,Hong Kong Kemang,Hong Kong Style,"Jl. Kemang Raya No.215, Jakarta Selatan",Jakarta Selatan,-6.286436,106.789304
+MER-00504,Dragon Palace Grogol,Chinese,"Jl. Pantai Indah Kapuk No.194, Jakarta Utara",Jakarta Utara,-6.11829,106.83716
+MER-00505,Bulgogi Bros Lebak Bulus,Korean Grill,"Jl. Gajah Mada No.38, Jakarta Pusat",Jakarta Pusat,-6.175489,106.827704
+MER-00506,Dim Sum Pondok Labu,Chinese Cuisine,"Jl. Pantai Indah Kapuk No.245, Jakarta Utara",Jakarta Utara,-6.166339,106.888963
+MER-00507,Kimchi House Kelapa Gading,,"Jl. Senopati No.188, Jakarta Selatan",Jakarta Selatan,-6.256449,106.808267
+MER-00508,Burger Joint Setiabudi,Fast Food,"Jl. Rasuna Said No.106, Jakarta Selatan",Jakarta Selatan,-6.251132,106.830501
+MER-00509,Chicken Rush Fatmawati,Quick Service,"Jl. Kebon Sirih No.169, Jakarta Pusat",Jakarta Pusat,-6.179336,106.807713
+MER-00510,QuickBite PIK,Fast Food,"Jl. DI Panjaitan No.206, Jakarta Timur",Jakarta Timur,-6.247206,106.909784
+MER-00511,Golden Wok Salemba,Chinese,"Jl. Matraman Raya No.66, Jakarta Timur",Jakarta Timur,-6.238417,106.896019
+MER-00512,Tokyo Ramen Tebet,Ramen Shop,"Jl. Pramuka No.238, Jakarta Timur",Jakarta Timur,-6.23912,106.896834
+MER-00513,Rendang Rumah Grogol,Indonesian Restaurant,"Jl. Pantai Indah Kapuk No.27, Jakarta Utara",Jakarta Utara,-6.162425,106.860395
+MER-00514,Mala House Cilandak,Dim Sum House,"Jl. Yos Sudarso No.69, Jakarta Utara",Jakarta Utara,-6.168748,106.83617
+MER-00515,Mala House Melawai,Hong Kong Style,"Jl. Gatot Subroto No.139, Jakarta Selatan",Jakarta Selatan,-6.240857,106.827456
+MER-00516,Hong Kong Lebak Bulus,Noodle House,"Jl. Pramuka No.15, Jakarta Timur",Jakarta Timur,-6.233465,106.91131
+MER-00517,Baker's Daily Salemba,,"Jl. Letjen S. Parman No.11, Jakarta Barat",Jakarta Barat,-6.180902,106.740987
+MER-00518,Latte Art Senopati,Cafe,"Jl. Senopati No.36, Jakarta Selatan",Jakarta Selatan,-6.238387,106.806879
+MER-00519,Golden Wok Lebak Bulus,Chinese,"Jl. Yos Sudarso No.248, Jakarta Utara",Jakarta Utara,-6.138819,106.891797
+MER-00520,Fry Lab Blok M,Quick Service,"Jl. Menteng Raya No.223, Jakarta Pusat",Jakarta Pusat,-6.177269,106.835687
+MER-00521,Sate Khas Dharmawangsa,Warung Makan,"Jl. Pluit Raya No.63, Jakarta Utara",Jakarta Utara,-6.140527,106.888981
+MER-00522,Sweet Dreams Salemba,Sweet Shop,"Jl. Pluit Raya No.30, Jakarta Utara",Jakarta Utara,-6.118679,106.837737
+MER-00523,Izakaya Ancol,,"Jl. Kemang Raya No.83, Jakarta Selatan",Jakarta Selatan,-6.232949,106.815158
+MER-00524,Warung Blok M,Nasi & Mie,"Jl. Fatmawati No.142, Jakarta Selatan",Jakarta Selatan,-6.246047,106.790683
+MER-00525,Rendang Rumah Kuningan,Local Cuisine,"Jl. Thamrin No.238, Jakarta Pusat",Jakarta Pusat,-6.187282,106.804681
+MER-00526,Latte Art Pondok Indah,Specialty Coffee,"Jl. Hayam Wuruk No.62, Jakarta Pusat",Jakarta Pusat,-6.17811,106.835685
+MER-00527,QuickBite Tanah Abang,QSR,"Jl. Gatot Subroto No.136, Jakarta Selatan",Jakarta Selatan,-6.291226,106.794738
+MER-00528,Jack's Burger Salemba,European,"Jl. Panjang No.29, Jakarta Barat",Jakarta Barat,-6.15874,106.745386
+MER-00529,Dragon Palace Kemang,,"Jl. Gajah Mada No.86, Jakarta Pusat",Jakarta Pusat,-6.194648,106.816875
+MER-00530,Sate Khas Kuningan,Southeast Asian,"Jl. Panjang No.185, Jakarta Barat",Jakarta Barat,-6.169196,106.735764
+MER-00531,Bean Lab Blok M,Cafe,"Jl. Senopati No.97, Jakarta Selatan",Jakarta Selatan,-6.285616,106.824865
+MER-00532,Bean Lab Grogol,,"Jl. Raya Bogor No.118, Jakarta Timur",Jakarta Timur,-6.227701,106.89364
+MER-00533,Seoul BBQ Cawang,Korean BBQ,"Jl. Hayam Wuruk No.108, Jakarta Pusat",Jakarta Pusat,-6.20831,106.855399
+MER-00534,Sate Khas Cawang,Nasi & Mie,"Jl. DI Panjaitan No.126, Jakarta Timur",Jakarta Timur,-6.2037,106.875588
+MER-00535,Rendang Rumah Kebayoran,Indonesian,"Jl. Kebon Sirih No.243, Jakarta Pusat",Jakarta Pusat,-6.190445,106.817644
+MER-00536,Rooftop Lounge Antasari,Wine Bar,"Jl. Menteng Raya No.211, Jakarta Pusat",Jakarta Pusat,-6.184633,106.833056
+MER-00537,Rendang Rumah Grogol,Local Cuisine,"Jl. Sudirman No.5, Jakarta Pusat",Jakarta Pusat,-6.198753,106.843158
+MER-00538,The Diner Menteng,American Diner,"Jl. Pramuka No.48, Jakarta Timur",Jakarta Timur,-6.227174,106.878717
+MER-00539,Warung Cideng,,"Jl. Pramuka No.193, Jakarta Timur",Jakarta Timur,-6.235026,106.872363
+MER-00540,Chicken Rush Senayan,Fried Chicken,"Jl. Rasuna Said No.29, Jakarta Selatan",Jakarta Selatan,-6.2369,106.802439
+MER-00541,Warung Jatinegara,Rumah Makan,"Jl. Panjang No.139, Jakarta Barat",Jakarta Barat,-6.186017,106.787675
+MER-00542,Latte Art Grogol,Coffee & Tea,"Jl. Kyai Tapa No.129, Jakarta Barat",Jakarta Barat,-6.152647,106.748028
+MER-00543,Hong Kong Pondok Labu,Chinese Cuisine,"Jl. Letjen S. Parman No.231, Jakarta Barat",Jakarta Barat,-6.17009,106.760714
+MER-00544,QuickBite Fatmawati,Fast Food,"Jl. Raya Bogor No.74, Jakarta Timur",Jakarta Timur,-6.227528,106.87521
+MER-00545,Fry Lab Cilandak,QSR,"Jl. Matraman Raya No.107, Jakarta Timur",Jakarta Timur,-6.223759,106.908037
+MER-00546,Izakaya Menteng,Japanese Cuisine,"Jl. Senopati No.214, Jakarta Selatan",Jakarta Selatan,-6.287723,106.832908
+MER-00547,Tom Yum Dharmawangsa,Thai Restaurant,"Jl. Yos Sudarso No.118, Jakarta Utara",Jakarta Utara,-6.126988,106.884414
+MER-00548,Bean Lab Melawai,Coffee Shop,"Jl. Kemang Raya No.91, Jakarta Selatan",Jakarta Selatan,-6.274211,106.831331
+MER-00549,Jack's Burger Cikini,Western,"Jl. Panjang No.42, Jakarta Barat",Jakarta Barat,-6.156728,106.768781
+MER-00550,Dim Sum Cikini,Chinese Cuisine,"Jl. Gajah Mada No.38, Jakarta Pusat",Jakarta Pusat,-6.174072,106.844233
+MER-00551,Nasi Goreng Pak Ancol,,"Jl. Matraman Raya No.40, Jakarta Timur",Jakarta Timur,-6.208889,106.927267
+MER-00552,Fry Lab Pancoran,Fried Chicken,"Jl. Raya Bogor No.205, Jakarta Timur",Jakarta Timur,-6.20975,106.930044
+MER-00553,Golden Wok Pondok Indah,Dim Sum House,"Jl. Danau Sunter Utara No.216, Jakarta Utara",Jakarta Utara,-6.161787,106.835388
+MER-00554,Thai Spicy Pasar Minggu,,"Jl. Menteng Raya No.172, Jakarta Pusat",Jakarta Pusat,-6.211485,106.855267
+MER-00555,Dolce Senayan,Italian,"Jl. Pramuka No.95, Jakarta Timur",Jakarta Timur,-6.233336,106.879277
+MER-00556,Baker's Daily Grogol,,"Jl. Puri Indah No.74, Jakarta Barat",Jakarta Barat,-6.171647,106.788356
+MER-00557,Bean Lab Pulogadung,Specialty Coffee,"Jl. Danau Sunter Utara No.86, Jakarta Utara",Jakarta Utara,-6.160182,106.852094
+MER-00558,Sakura Rawamangun,Ramen Shop,"Jl. Thamrin No.52, Jakarta Pusat",Jakarta Pusat,-6.188773,106.838375
+MER-00559,Espresso House Pulogadung,Coffee & Tea,"Jl. Rasuna Said No.203, Jakarta Selatan",Jakarta Selatan,-6.257943,106.808407
+MER-00560,Bella Italia Pancoran,Pizzeria,"Jl. Senopati No.8, Jakarta Selatan",Jakarta Selatan,-6.261987,106.821871
+MER-00561,Trattoria Pulogadung,Italian,"Jl. Pondok Indah No.250, Jakarta Selatan",Jakarta Selatan,-6.265336,106.796075
+MER-00562,Bakso Kuningan,Local Cuisine,"Jl. Boulevard Kelapa Gading No.92, Jakarta Utara",Jakarta Utara,-6.160032,106.861563
+MER-00563,Baker's Daily Pancoran,Bakery,"Jl. Senopati No.197, Jakarta Selatan",Jakarta Selatan,-6.253163,106.78521
+MER-00564,Kimchi House Tanah Abang,Korean Restaurant,"Jl. Casablanca No.149, Jakarta Selatan",Jakarta Selatan,-6.249622,106.802351
+MER-00565,Donburi Rawamangun,Japanese Restaurant,"Jl. Kemang Raya No.129, Jakarta Selatan",Jakarta Selatan,-6.236853,106.786745
+MER-00566,QuickBite Rawamangun,,"Jl. Rasuna Said No.123, Jakarta Selatan",Jakarta Selatan,-6.286916,106.829731
+MER-00567,Morning Brew Pondok Labu,Coffee Shop,"Jl. Daan Mogot No.191, Jakarta Barat",Jakarta Barat,-6.177777,106.771394
+MER-00568,Chicken Rush Pondok Indah,Fried Chicken,"Jl. Sudirman No.20, Jakarta Pusat",Jakarta Pusat,-6.157633,106.829788
+MER-00569,Nasi Goreng Pak Melawai,Indonesian Restaurant,"Jl. Menteng Raya No.3, Jakarta Pusat",Jakarta Pusat,-6.201319,106.808275
+MER-00570,Ice Cream Castle Senopati,Dessert Cafe,"Jl. Gajah Mada No.243, Jakarta Pusat",Jakarta Pusat,-6.207767,106.849072
+MER-00571,Burger Joint Antasari,Quick Service,"Jl. Pluit Raya No.136, Jakarta Utara",Jakarta Utara,-6.162854,106.868588
+MER-00572,QuickBite Kelapa Gading,Quick Service,"Jl. Pramuka No.94, Jakarta Timur",Jakarta Timur,-6.199771,106.921478
+MER-00573,Ayam Geprek Cideng,,"Jl. Fatmawati No.32, Jakarta Selatan",Jakarta Selatan,-6.260645,106.805055
+MER-00574,QuickBite PIK,Fried Chicken,"Jl. Melawai No.176, Jakarta Selatan",Jakarta Selatan,-6.284557,106.797617
+MER-00575,Craft Beer Fatmawati,,"Jl. Matraman Raya No.46, Jakarta Timur",Jakarta Timur,-6.201315,106.918546
+MER-00576,Izakaya PIK,Japanese Restaurant,"Jl. Sudirman No.190, Jakarta Pusat",Jakarta Pusat,-6.192811,106.846002
+MER-00577,K-Street Ancol,K-Food,"Jl. Gajah Mada No.196, Jakarta Pusat",Jakarta Pusat,-6.166213,106.847812
+MER-00578,Kopi Senopati,Coffee & Pastry,"Jl. Pondok Indah No.131, Jakarta Selatan",Jakarta Selatan,-6.25531,106.804867
+MER-00579,Dragon Palace Menteng,Hong Kong Style,"Jl. Menteng Raya No.7, Jakarta Pusat",Jakarta Pusat,-6.213329,106.808394
+MER-00580,K-Street Kelapa Gading,Korean BBQ,"Jl. Puri Indah No.203, Jakarta Barat",Jakarta Barat,-6.158635,106.759997
+MER-00581,Ayam Geprek Lebak Bulus,Traditional Indonesian,"Jl. Cilandak No.226, Jakarta Selatan",Jakarta Selatan,-6.234345,106.782496
+MER-00582,Golden Wok Kemang,Chinese Restaurant,"Jl. Menteng Raya No.43, Jakarta Pusat",Jakarta Pusat,-6.176935,106.851063
+MER-00583,Morning Brew Dharmawangsa,Specialty Coffee,"Jl. Yos Sudarso No.144, Jakarta Utara",Jakarta Utara,-6.127678,106.868233
+MER-00584,Pasta Bar Senopati,Pizzeria,"Jl. Letjen S. Parman No.12, Jakarta Barat",Jakarta Barat,-6.181234,106.732485
+MER-00585,Ayam Geprek Cideng,Nasi & Mie,"Jl. Gajah Mada No.15, Jakarta Pusat",Jakarta Pusat,-6.195791,106.825742
+MER-00586,Warung Tanah Abang,Traditional Indonesian,"Jl. Sudirman No.118, Jakarta Pusat",Jakarta Pusat,-6.206313,106.836605
+MER-00587,Gado-Gado Pulogadung,Rumah Makan,"Jl. Gajah Mada No.147, Jakarta Pusat",Jakarta Pusat,-6.197509,106.838521
+MER-00588,K-Street Mampang,,"Jl. Thamrin No.128, Jakarta Pusat",Jakarta Pusat,-6.198529,106.862466
+MER-00589,Bakso Senayan,Indonesian Restaurant,"Jl. Gatot Subroto No.184, Jakarta Selatan",Jakarta Selatan,-6.257089,106.828876
+MER-00590,The Diner Melawai,Grill House,"Jl. Melawai No.130, Jakarta Selatan",Jakarta Selatan,-6.270661,106.7852
+MER-00591,Sakura Antasari,,"Jl. Rasuna Said No.161, Jakarta Selatan",Jakarta Selatan,-6.245693,106.791436
+MER-00592,Pad Thai Pasar Minggu,Thai,"Jl. Pramuka No.240, Jakarta Timur",Jakarta Timur,-6.223037,106.907265
+MER-00593,Sate Khas Tanah Abang,Traditional Indonesian,"Jl. Daan Mogot No.163, Jakarta Barat",Jakarta Barat,-6.173684,106.780411
+MER-00594,Soto Betawi Ancol,Traditional Indonesian,"Jl. Gajah Mada No.119, Jakarta Pusat",Jakarta Pusat,-6.207502,106.805962
+MER-00595,Bakso Pondok Indah,Indonesian,"Jl. Kebon Sirih No.46, Jakarta Pusat",Jakarta Pusat,-6.16912,106.820966
+MER-00596,Warung Setiabudi,Indonesian Restaurant,"Jl. Yos Sudarso No.230, Jakarta Utara",Jakarta Utara,-6.11677,106.887934
+MER-00597,Bean Lab Blok M,Specialty Coffee,"Jl. Danau Sunter Utara No.244, Jakarta Utara",Jakarta Utara,-6.138785,106.841139
+MER-00598,Warung Setiabudi,Warung Makan,"Jl. Senopati No.240, Jakarta Selatan",Jakarta Selatan,-6.25644,106.803997
+MER-00599,Rendang Rumah Tebet,Rumah Makan,"Jl. Pemuda No.82, Jakarta Timur",Jakarta Timur,-6.251644,106.902408
+MER-00600,Bean Lab Bendungan Hilir,Cafe,"Jl. Rasuna Said No.216, Jakarta Selatan",Jakarta Selatan,-6.269436,106.79909
+MER-00601,Rendang Rumah Tanah Abang,Rumah Makan,"Jl. Pluit Raya No.137, Jakarta Utara",Jakarta Utara,-6.126763,106.888089
+MER-00602,Sakura Tanah Abang,Ramen Shop,"Jl. Thamrin No.221, Jakarta Pusat",Jakarta Pusat,-6.167138,106.818428
+MER-00603,Kopi Kemang,Coffee & Tea,"Jl. Pondok Indah No.121, Jakarta Selatan",Jakarta Selatan,-6.286694,106.827367
+MER-00604,Bean Lab Tebet,,"Jl. Casablanca No.189, Jakarta Selatan",Jakarta Selatan,-6.270389,106.816727
+MER-00605,Pad Thai Pondok Indah,Thai Restaurant,"Jl. Kebon Sirih No.22, Jakarta Pusat",Jakarta Pusat,-6.204495,106.822633
+MER-00606,Bean Lab Kemayoran,Coffee & Tea,"Jl. Yos Sudarso No.224, Jakarta Utara",Jakarta Utara,-6.121241,106.853064
+MER-00607,Kimchi House Fatmawati,K-Food,"Jl. Hayam Wuruk No.242, Jakarta Pusat",Jakarta Pusat,-6.194444,106.82791
+MER-00608,Ice Cream Castle PIK,Ice Cream,"Jl. Raya Bogor No.13, Jakarta Timur",Jakarta Timur,-6.243104,106.912476
+MER-00609,Fresh Bread Cawang,Bakery,"Jl. Hayam Wuruk No.212, Jakarta Pusat",Jakarta Pusat,-6.173385,106.83041
+MER-00610,Pastry Lab Pancoran,Pastry Shop,"Jl. Panjang No.154, Jakarta Barat",Jakarta Barat,-6.175376,106.754679
+MER-00611,Sate Khas Menteng,Rumah Makan,"Jl. Senopati No.95, Jakarta Selatan",Jakarta Selatan,-6.275792,106.817661
+MER-00612,Latte Art Ancol,Specialty Coffee,"Jl. Danau Sunter Utara No.66, Jakarta Utara",Jakarta Utara,-6.126,106.876407
+MER-00613,Ayam Geprek Kemayoran,Traditional Indonesian,"Jl. Pemuda No.2, Jakarta Timur",Jakarta Timur,-6.196967,106.906294
+MER-00614,Udon Ichi Kemang,Japanese,"Jl. Pantai Indah Kapuk No.225, Jakarta Utara",Jakarta Utara,-6.153183,106.864125
+MER-00615,Warung Setiabudi,Traditional Indonesian,"Jl. Gajah Mada No.192, Jakarta Pusat",Jakarta Pusat,-6.208828,106.856601
+MER-00616,Trattoria Pondok Labu,Trattoria,"Jl. Pondok Indah No.196, Jakarta Selatan",Jakarta Selatan,-6.23794,106.799533
+MER-00617,Daily Coffee Fatmawati,Coffee & Pastry,"Jl. Gajah Mada No.42, Jakarta Pusat",Jakarta Pusat,-6.202708,106.806452
+MER-00618,Mala House Senopati,Chinese Restaurant,"Jl. Pemuda No.217, Jakarta Timur",Jakarta Timur,-6.221349,106.897866
+MER-00619,Bean Lab Kuningan,Cafe,"Jl. Letjen S. Parman No.55, Jakarta Barat",Jakarta Barat,-6.148946,106.762595
+MER-00620,Tokyo Ramen Kebayoran,Japanese Cuisine,"Jl. Daan Mogot No.73, Jakarta Barat",Jakarta Barat,-6.157685,106.782042
+MER-00621,Sweet Dreams Setiabudi,Dessert Cafe,"Jl. Menteng Raya No.123, Jakarta Pusat",Jakarta Pusat,-6.211636,106.854142
+MER-00622,Croissant Setiabudi,Bakery,"Jl. DI Panjaitan No.34, Jakarta Timur",Jakarta Timur,-6.195011,106.924813
+MER-00623,Latte Art Thamrin,Coffee & Pastry,"Jl. Melawai No.46, Jakarta Selatan",Jakarta Selatan,-6.255363,106.786153
+MER-00624,Rendang Rumah Pancoran,Local Cuisine,"Jl. Pantai Indah Kapuk No.126, Jakarta Utara",Jakarta Utara,-6.111534,106.843148
+MER-00625,Tokyo Ramen Bendungan Hilir,Ramen Shop,"Jl. Pondok Indah No.69, Jakarta Selatan",Jakarta Selatan,-6.262123,106.833725
+MER-00626,Sushi Yama Cempaka Putih,Japanese Cuisine,"Jl. Yos Sudarso No.174, Jakarta Utara",Jakarta Utara,-6.163223,106.8647
+MER-00627,The Diner PIK,Steakhouse,"Jl. Pondok Indah No.77, Jakarta Selatan",Jakarta Selatan,-6.265259,106.835032
+MER-00628,Rendang Rumah Pancoran,Traditional Indonesian,"Jl. Danau Sunter Utara No.28, Jakarta Utara",Jakarta Utara,-6.13574,106.888938
+MER-00629,Smokehouse Senopati,Steakhouse,"Jl. Gatot Subroto No.190, Jakarta Selatan",Jakarta Selatan,-6.286594,106.810807
+MER-00630,Rendang Rumah Tanah Abang,Southeast Asian,"Jl. Pondok Indah No.160, Jakarta Selatan",Jakarta Selatan,-6.248054,106.826041
+MER-00631,Sate Khas PIK,Indonesian,"Jl. Daan Mogot No.112, Jakarta Barat",Jakarta Barat,-6.162057,106.781097
+MER-00632,Pad Thai Ancol,,"Jl. Pramuka No.78, Jakarta Timur",Jakarta Timur,-6.197052,106.906513
+MER-00633,Fry Lab Tanah Abang,Fast Food,"Jl. Sudirman No.179, Jakarta Pusat",Jakarta Pusat,-6.208393,106.815748
+MER-00634,Pad Thai Lebak Bulus,Thai Restaurant,"Jl. Hayam Wuruk No.109, Jakarta Pusat",Jakarta Pusat,-6.198445,106.832106
+MER-00635,Mala House Melawai,Hong Kong Style,"Jl. Gajah Mada No.146, Jakarta Pusat",Jakarta Pusat,-6.189529,106.818858
+MER-00636,Pasta Bar Rawamangun,Pasta Bar,"Jl. Letjen S. Parman No.75, Jakarta Barat",Jakarta Barat,-6.154075,106.76455
+MER-00637,Pasta Bar Pluit,European,"Jl. Kyai Tapa No.142, Jakarta Barat",Jakarta Barat,-6.166601,106.75412
+MER-00638,Dim Sum Matraman,Chinese Restaurant,"Jl. Boulevard Kelapa Gading No.121, Jakarta Utara",Jakarta Utara,-6.167552,106.851181
+MER-00639,Fry Lab Pondok Indah,,"Jl. Pramuka No.214, Jakarta Timur",Jakarta Timur,-6.21162,106.893822
+MER-00640,Bean Lab Grogol,Specialty Coffee,"Jl. Kemang Raya No.45, Jakarta Selatan",Jakarta Selatan,-6.246545,106.820623
+MER-00641,Croissant Tanah Abang,,"Jl. Gajah Mada No.226, Jakarta Pusat",Jakarta Pusat,-6.18309,106.864256
+MER-00642,Daily Coffee Thamrin,Coffee & Tea,"Jl. Casablanca No.58, Jakarta Selatan",Jakarta Selatan,-6.284662,106.794201
+MER-00643,Morning Brew Pasar Minggu,Cafe,"Jl. DI Panjaitan No.172, Jakarta Timur",Jakarta Timur,-6.203796,106.922822
+MER-00644,Golden Wok Kelapa Gading,Chinese Cuisine,"Jl. Daan Mogot No.211, Jakarta Barat",Jakarta Barat,-6.161721,106.780303
+MER-00645,Espresso House Kuningan,Coffee Shop,"Jl. Puri Indah No.188, Jakarta Barat",Jakarta Barat,-6.15581,106.774518
+MER-00646,Soto Betawi Matraman,Warung Makan,"Jl. Pramuka No.88, Jakarta Timur",Jakarta Timur,-6.208847,106.870795
+MER-00647,Chicken Rush Kebayoran,Fried Chicken,"Jl. Thamrin No.36, Jakarta Pusat",Jakarta Pusat,-6.17129,106.829603
+MER-00648,Pastry Lab Menteng,Pastry Shop,"Jl. Casablanca No.242, Jakarta Selatan",Jakarta Selatan,-6.245291,106.823658
+MER-00649,Nasi Goreng Pak Ancol,,"Jl. Letjen S. Parman No.15, Jakarta Barat",Jakarta Barat,-6.158689,106.767288
+MER-00650,Latte Art Jatinegara,Specialty Coffee,"Jl. Matraman Raya No.3, Jakarta Timur",Jakarta Timur,-6.211707,106.889222
+MER-00651,Izakaya Grogol,,"Jl. Pramuka No.179, Jakarta Timur",Jakarta Timur,-6.217538,106.907491
+MER-00652,Bakso PIK,,"Jl. Menteng Raya No.226, Jakarta Pusat",Jakarta Pusat,-6.19643,106.847806
+MER-00653,The Diner Mampang,,"Jl. Letjen S. Parman No.152, Jakarta Barat",Jakarta Barat,-6.188698,106.730473
+MER-00654,The Wine Cellar Senayan,Bar,"Jl. Daan Mogot No.13, Jakarta Barat",Jakarta Barat,-6.182715,106.75925
+MER-00655,Ayam Geprek Kebayoran,Southeast Asian,"Jl. Letjen S. Parman No.217, Jakarta Barat",Jakarta Barat,-6.13896,106.762736
+MER-00656,Morning Brew Pondok Indah,Coffee & Tea,"Jl. Kyai Tapa No.133, Jakarta Barat",Jakarta Barat,-6.16712,106.743658
+MER-00657,Donburi PIK,Japanese Cuisine,"Jl. Thamrin No.115, Jakarta Pusat",Jakarta Pusat,-6.191007,106.812104
+MER-00658,Mala House Tebet,,"Jl. Yos Sudarso No.188, Jakarta Utara",Jakarta Utara,-6.130612,106.893691
+MER-00659,Mala House Pondok Indah,Noodle House,"Jl. Raya Bogor No.117, Jakarta Timur",Jakarta Timur,-6.224209,106.902148
+MER-00660,Sweet Dreams Kemayoran,Dessert,"Jl. Matraman Raya No.11, Jakarta Timur",Jakarta Timur,-6.24838,106.892575
+MER-00661,Han Kook Menteng,Korean BBQ,"Jl. Daan Mogot No.240, Jakarta Barat",Jakarta Barat,-6.189772,106.764177
+MER-00662,Golden Wok Jatinegara,Dim Sum House,"Jl. Melawai No.145, Jakarta Selatan",Jakarta Selatan,-6.239274,106.805655
+MER-00663,Burger Joint Pondok Indah,Burger & Fries,"Jl. Pondok Indah No.39, Jakarta Selatan",Jakarta Selatan,-6.263844,106.807596
+MER-00664,Pasta Bar Pluit,Italian,"Jl. Pramuka No.189, Jakarta Timur",Jakarta Timur,-6.23466,106.873149
+MER-00665,Smokehouse Jatinegara,Western,"Jl. Danau Sunter Utara No.139, Jakarta Utara",Jakarta Utara,-6.130165,106.839009
+MER-00666,QuickBite Blok M,,"Jl. Pantai Indah Kapuk No.202, Jakarta Utara",Jakarta Utara,-6.136888,106.891643
+MER-00667,Ayam Geprek Ancol,Indonesian,"Jl. Pantai Indah Kapuk No.112, Jakarta Utara",Jakarta Utara,-6.139312,106.889931
+MER-00668,Warung Kelapa Gading,Traditional Indonesian,"Jl. Gatot Subroto No.40, Jakarta Selatan",Jakarta Selatan,-6.274379,106.79156
+MER-00669,Fresh Bread Menteng,Pastry Shop,"Jl. Panjang No.106, Jakarta Barat",Jakarta Barat,-6.180419,106.734725
+MER-00670,Soto Betawi Kebayoran,Local Cuisine,"Jl. Letjen S. Parman No.99, Jakarta Barat",Jakarta Barat,-6.163138,106.758379
+MER-00671,Donburi Menteng,Japanese Cuisine,"Jl. Melawai No.142, Jakarta Selatan",Jakarta Selatan,-6.277476,106.833769
+MER-00672,Thai Spicy Tanah Abang,Thai Restaurant,"Jl. Danau Sunter Utara No.53, Jakarta Utara",Jakarta Utara,-6.142041,106.884677
+MER-00673,Morning Brew Cempaka Putih,Coffee & Tea,"Jl. Pramuka No.247, Jakarta Timur",Jakarta Timur,-6.221691,106.872908
+MER-00674,Gado-Gado Pasar Minggu,,"Jl. Pantai Indah Kapuk No.216, Jakarta Utara",Jakarta Utara,-6.118431,106.856709
+MER-00675,Big Bob's Grill Tanah Abang,Grill House,"Jl. Menteng Raya No.143, Jakarta Pusat",Jakarta Pusat,-6.174594,106.85413
+MER-00676,Latte Art Mampang,Coffee & Tea,"Jl. Pantai Indah Kapuk No.63, Jakarta Utara",Jakarta Utara,-6.110022,106.876365
+MER-00677,Bella Italia Pondok Indah,Trattoria,"Jl. Pluit Raya No.173, Jakarta Utara",Jakarta Utara,-6.168677,106.862492
+MER-00678,Morning Brew PIK,,"Jl. Daan Mogot No.229, Jakarta Barat",Jakarta Barat,-6.159354,106.733451
+MER-00679,Croissant Kemayoran,Bread Shop,"Jl. Rasuna Said No.32, Jakarta Selatan",Jakarta Selatan,-6.280869,106.826678
+MER-00680,Bakso Senopati,Rumah Makan,"Jl. Menteng Raya No.57, Jakarta Pusat",Jakarta Pusat,-6.167523,106.841814
+MER-00681,Hong Kong Grogol,Chinese Cuisine,"Jl. Sudirman No.223, Jakarta Pusat",Jakarta Pusat,-6.157444,106.842606
+MER-00682,Thai Spicy Thamrin,,"Jl. Danau Sunter Utara No.220, Jakarta Utara",Jakarta Utara,-6.124042,106.841546
+MER-00683,Daily Coffee Lebak Bulus,,"Jl. Pluit Raya No.241, Jakarta Utara",Jakarta Utara,-6.127959,106.886886
+MER-00684,Churros Rawamangun,,"Jl. Fatmawati No.133, Jakarta Selatan",Jakarta Selatan,-6.25069,106.808595
+MER-00685,Donburi Setiabudi,Japanese Cuisine,"Jl. Kebon Sirih No.207, Jakarta Pusat",Jakarta Pusat,-6.204824,106.809209
+MER-00686,Fresh Bread Fatmawati,Bakery,"Jl. Sudirman No.8, Jakarta Pusat",Jakarta Pusat,-6.197852,106.84186
+MER-00687,Kimchi House Kebayoran,,"Jl. Sudirman No.211, Jakarta Pusat",Jakarta Pusat,-6.202198,106.824748
+MER-00688,Pasta Bar Kelapa Gading,Pizzeria,"Jl. Pluit Raya No.235, Jakarta Utara",Jakarta Utara,-6.134064,106.839032
+MER-00689,Daily Coffee Matraman,Cafe,"Jl. Sudirman No.174, Jakarta Pusat",Jakarta Pusat,-6.179856,106.83021
+MER-00690,Rendang Rumah Pluit,Traditional Indonesian,"Jl. Pramuka No.99, Jakarta Timur",Jakarta Timur,-6.207752,106.90784
+MER-00691,Bulgogi Bros Menteng,Korean,"Jl. Gatot Subroto No.4, Jakarta Selatan",Jakarta Selatan,-6.271808,106.792149
+MER-00692,Ice Cream Castle Antasari,Dessert,"Jl. Pondok Indah No.48, Jakarta Selatan",Jakarta Selatan,-6.26624,106.824077
+MER-00693,Izakaya Senopati,Sushi Bar,"Jl. Kemang Raya No.121, Jakarta Selatan",Jakarta Selatan,-6.238387,106.82713
+MER-00694,Dragon Palace Senayan,Chinese Restaurant,"Jl. Sudirman No.109, Jakarta Pusat",Jakarta Pusat,-6.167349,106.837867
+MER-00695,Soto Betawi Melawai,Southeast Asian,"Jl. Pantai Indah Kapuk No.219, Jakarta Utara",Jakarta Utara,-6.109885,106.869886
+MER-00696,Gado-Gado Kemang,Nasi & Mie,"Jl. Senopati No.120, Jakarta Selatan",Jakarta Selatan,-6.236303,106.818926
+MER-00697,Latte Art Cideng,Cafe,"Jl. Gajah Mada No.3, Jakarta Pusat",Jakarta Pusat,-6.205445,106.863693
+MER-00698,Hong Kong Bendungan Hilir,Noodle House,"Jl. Thamrin No.57, Jakarta Pusat",Jakarta Pusat,-6.214719,106.816169
+MER-00699,Soto Betawi Menteng,Indonesian Restaurant,"Jl. Menteng Raya No.36, Jakarta Pusat",Jakarta Pusat,-6.200793,106.810371
+MER-00700,Dim Sum Bendungan Hilir,Noodle House,"Jl. Danau Sunter Utara No.226, Jakarta Utara",Jakarta Utara,-6.11233,106.892526
+MER-00701,Ice Cream Castle Fatmawati,Dessert,"Jl. Cilandak No.163, Jakarta Selatan",Jakarta Selatan,-6.249839,106.799677
+MER-00702,Espresso House Cilandak,Specialty Coffee,"Jl. Kemang Raya No.218, Jakarta Selatan",Jakarta Selatan,-6.288304,106.828337
+MER-00703,Gado-Gado Thamrin,Rumah Makan,"Jl. Kebon Sirih No.96, Jakarta Pusat",Jakarta Pusat,-6.193213,106.857245
+MER-00704,Steak Factory Dharmawangsa,Steakhouse,"Jl. Rasuna Said No.54, Jakarta Selatan",Jakarta Selatan,-6.256629,106.818886
+MER-00705,Rendang Rumah Cideng,Indonesian Restaurant,"Jl. Danau Sunter Utara No.22, Jakarta Utara",Jakarta Utara,-6.11267,106.856346
+MER-00706,Nasi Goreng Pak Salemba,Rumah Makan,"Jl. Cilandak No.105, Jakarta Selatan",Jakarta Selatan,-6.271318,106.807669
+MER-00707,Soto Betawi Tebet,Indonesian Restaurant,"Jl. Danau Sunter Utara No.132, Jakarta Utara",Jakarta Utara,-6.147254,106.838845
+MER-00708,Warung Bendungan Hilir,Local Cuisine,"Jl. Gajah Mada No.65, Jakarta Pusat",Jakarta Pusat,-6.204482,106.816099
+MER-00709,Bakso Sudirman,Indonesian,"Jl. Puri Indah No.243, Jakarta Barat",Jakarta Barat,-6.181389,106.749598
+MER-00710,Bean Lab Ancol,Specialty Coffee,"Jl. Thamrin No.133, Jakarta Pusat",Jakarta Pusat,-6.1731,106.816893
+MER-00711,Golden Wok Setiabudi,,"Jl. Puri Indah No.54, Jakarta Barat",Jakarta Barat,-6.172572,106.785316
+MER-00712,Jack's Burger Tanah Abang,Grill House,"Jl. Matraman Raya No.87, Jakarta Timur",Jakarta Timur,-6.254419,106.919024
+MER-00713,Morning Brew Tanah Abang,Coffee & Tea,"Jl. Kemang Raya No.40, Jakarta Selatan",Jakarta Selatan,-6.290106,106.827721
+MER-00714,Churros Cideng,Sweet Shop,"Jl. Thamrin No.122, Jakarta Pusat",Jakarta Pusat,-6.193062,106.836369
+MER-00715,Oppa Chicken Kelapa Gading,Korean Restaurant,"Jl. Danau Sunter Utara No.126, Jakarta Utara",Jakarta Utara,-6.158142,106.883488
+MER-00716,Oppa Chicken Pancoran,,"Jl. Danau Sunter Utara No.3, Jakarta Utara",Jakarta Utara,-6.164601,106.837347
+MER-00717,The Wine Cellar Lebak Bulus,Lounge,"Jl. Senopati No.34, Jakarta Selatan",Jakarta Selatan,-6.246911,106.80394
+MER-00718,Hong Kong Cawang,Chinese Restaurant,"Jl. Pramuka No.71, Jakarta Timur",Jakarta Timur,-6.21975,106.900549
+MER-00719,Pizza Roma Pondok Labu,Italian,"Jl. Pondok Indah No.148, Jakarta Selatan",Jakarta Selatan,-6.257346,106.810058
+MER-00720,Dim Sum Ancol,Noodle House,"Jl. Boulevard Kelapa Gading No.46, Jakarta Utara",Jakarta Utara,-6.120201,106.844408
+MER-00721,Bangkok Kitchen Ancol,,"Jl. Boulevard Kelapa Gading No.71, Jakarta Utara",Jakarta Utara,-6.16618,106.887033
+MER-00722,Burger Joint Dharmawangsa,QSR,"Jl. Fatmawati No.20, Jakarta Selatan",Jakarta Selatan,-6.245788,106.787874
+MER-00723,Dim Sum Grogol,Hong Kong Style,"Jl. Pondok Indah No.98, Jakarta Selatan",Jakarta Selatan,-6.26377,106.784992
+MER-00724,Warung Pondok Indah,Nasi & Mie,"Jl. Gatot Subroto No.22, Jakarta Selatan",Jakarta Selatan,-6.246579,106.809686
+MER-00725,Dim Sum Kuningan,Hong Kong Style,"Jl. Gajah Mada No.32, Jakarta Pusat",Jakarta Pusat,-6.215416,106.810331
+MER-00726,Bakso Cilandak,Indonesian,"Jl. Casablanca No.56, Jakarta Selatan",Jakarta Selatan,-6.280824,106.823465
+MER-00727,Bangkok Kitchen Cideng,Thai Restaurant,"Jl. Pluit Raya No.198, Jakarta Utara",Jakarta Utara,-6.142161,106.869792
+MER-00728,Warung Menteng,Nasi & Mie,"Jl. Senopati No.175, Jakarta Selatan",Jakarta Selatan,-6.232143,106.800827
+MER-00729,Latte Art Kuningan,Coffee Shop,"Jl. Kyai Tapa No.83, Jakarta Barat",Jakarta Barat,-6.195659,106.75955
+MER-00730,Donburi Blok M,Japanese,"Jl. Sudirman No.103, Jakarta Pusat",Jakarta Pusat,-6.210147,106.823702
+MER-00731,Bakso Bendungan Hilir,Indonesian Restaurant,"Jl. Kebon Sirih No.128, Jakarta Pusat",Jakarta Pusat,-6.163372,106.828966
+MER-00732,Ice Cream Castle Tebet,,"Jl. Pramuka No.174, Jakarta Timur",Jakarta Timur,-6.219008,106.929285
+MER-00733,Latte Art Setiabudi,Coffee & Pastry,"Jl. Pemuda No.156, Jakarta Timur",Jakarta Timur,-6.215018,106.874451
+MER-00734,Nasi Goreng Pak Pluit,Nasi & Mie,"Jl. Thamrin No.189, Jakarta Pusat",Jakarta Pusat,-6.170964,106.811743
+MER-00735,Sakura Fatmawati,Ramen Shop,"Jl. Menteng Raya No.154, Jakarta Pusat",Jakarta Pusat,-6.204237,106.806574
+MER-00736,Nasi Goreng Pak Pondok Labu,Southeast Asian,"Jl. Daan Mogot No.59, Jakarta Barat",Jakarta Barat,-6.173406,106.777563
+MER-00737,Soto Betawi Pluit,Rumah Makan,"Jl. Yos Sudarso No.162, Jakarta Utara",Jakarta Utara,-6.145911,106.853198
+MER-00738,Pizza Roma Grogol,Pasta Bar,"Jl. Thamrin No.61, Jakarta Pusat",Jakarta Pusat,-6.206079,106.837231
+MER-00739,Burger Joint Cempaka Putih,Burger & Fries,"Jl. Hayam Wuruk No.248, Jakarta Pusat",Jakarta Pusat,-6.201562,106.821421
+MER-00740,Pastry Lab Ancol,Boulangerie,"Jl. Cilandak No.195, Jakarta Selatan",Jakarta Selatan,-6.263257,106.805962
+MER-00741,Espresso House Kemayoran,Coffee & Tea,"Jl. Cilandak No.119, Jakarta Selatan",Jakarta Selatan,-6.258329,106.791142
+MER-00742,Sate Khas Melawai,Rumah Makan,"Jl. Kebon Sirih No.187, Jakarta Pusat",Jakarta Pusat,-6.161532,106.804551
+MER-00743,Izakaya Bendungan Hilir,Japanese,"Jl. Gatot Subroto No.105, Jakarta Selatan",Jakarta Selatan,-6.273031,106.839851
+MER-00744,Rendang Rumah Tebet,Indonesian,"Jl. Puri Indah No.163, Jakarta Barat",Jakarta Barat,-6.153205,106.749715
+MER-00745,Burger Joint Melawai,,"Jl. Menteng Raya No.8, Jakarta Pusat",Jakarta Pusat,-6.167712,106.842157
+MER-00746,Fresh Bread Tebet,Bakery,"Jl. Thamrin No.4, Jakarta Pusat",Jakarta Pusat,-6.181799,106.844056
+MER-00747,Udon Ichi PIK,Izakaya,"Jl. Cilandak No.65, Jakarta Selatan",Jakarta Selatan,-6.280171,106.805977
+MER-00748,Sakura Rawamangun,,"Jl. Daan Mogot No.163, Jakarta Barat",Jakarta Barat,-6.142841,106.780965
+MER-00749,Fry Lab Tanah Abang,Fried Chicken,"Jl. Sudirman No.18, Jakarta Pusat",Jakarta Pusat,-6.206396,106.833803
+MER-00750,Burger Joint Cikini,Fried Chicken,"Jl. Kemang Raya No.129, Jakarta Selatan",Jakarta Selatan,-6.249257,106.792481
+MER-00751,Sate Khas Fatmawati,Indonesian Restaurant,"Jl. Gatot Subroto No.223, Jakarta Selatan",Jakarta Selatan,-6.237364,106.805128
+MER-00752,Ayam Geprek Menteng,Indonesian,"Jl. Pluit Raya No.3, Jakarta Utara",Jakarta Utara,-6.140126,106.874268
+MER-00753,Soto Betawi Pondok Labu,Southeast Asian,"Jl. Kyai Tapa No.239, Jakarta Barat",Jakarta Barat,-6.17576,106.760004
+MER-00754,Chicken Rush Setiabudi,Burger & Fries,"Jl. Puri Indah No.157, Jakarta Barat",Jakarta Barat,-6.141841,106.768705
+MER-00755,Rendang Rumah Pondok Indah,Southeast Asian,"Jl. Menteng Raya No.193, Jakarta Pusat",Jakarta Pusat,-6.209126,106.836138
+MER-00756,Morning Brew Rawamangun,Cafe,"Jl. Pantai Indah Kapuk No.5, Jakarta Utara",Jakarta Utara,-6.168612,106.872184
+MER-00757,Thai Spicy Kemayoran,Thai Cuisine,"Jl. Fatmawati No.110, Jakarta Selatan",Jakarta Selatan,-6.247148,106.828238
+MER-00758,Churros Pancoran,Sweet Shop,"Jl. Danau Sunter Utara No.201, Jakarta Utara",Jakarta Utara,-6.126083,106.886092
+MER-00759,Gado-Gado Kuningan,Warung Makan,"Jl. DI Panjaitan No.62, Jakarta Timur",Jakarta Timur,-6.197697,106.89933
+MER-00760,Rendang Rumah Menteng,Rumah Makan,"Jl. Gajah Mada No.57, Jakarta Pusat",Jakarta Pusat,-6.160762,106.858459
+MER-00761,Pad Thai PIK,Thai,"Jl. Letjen S. Parman No.197, Jakarta Barat",Jakarta Barat,-6.178332,106.742228
+MER-00762,Fry Lab Jatinegara,Fast Food,"Jl. Matraman Raya No.30, Jakarta Timur",Jakarta Timur,-6.228782,106.884402
+MER-00763,Sweet Dreams Cawang,Sweet Shop,"Jl. Rasuna Said No.80, Jakarta Selatan",Jakarta Selatan,-6.2403,106.837844
+MER-00764,Sakura Pondok Indah,Ramen Shop,"Jl. Cilandak No.3, Jakarta Selatan",Jakarta Selatan,-6.255403,106.793928
+MER-00765,Oppa Chicken Dharmawangsa,K-Food,"Jl. Pluit Raya No.154, Jakarta Utara",Jakarta Utara,-6.159954,106.850904
+MER-00766,Rooftop Lounge Cawang,Lounge,"Jl. Cilandak No.16, Jakarta Selatan",Jakarta Selatan,-6.241779,106.810302
+MER-00767,Bean Lab Senayan,,"Jl. Pramuka No.77, Jakarta Timur",Jakarta Timur,-6.208438,106.921807
+MER-00768,Rendang Rumah Mampang,Local Cuisine,"Jl. Cilandak No.101, Jakarta Selatan",Jakarta Selatan,-6.263095,106.801498
+MER-00769,Fry Lab Kelapa Gading,Burger & Fries,"Jl. Sudirman No.218, Jakarta Pusat",Jakarta Pusat,-6.171364,106.839123
+MER-00770,Gado-Gado Pancoran,Southeast Asian,"Jl. Raya Bogor No.189, Jakarta Timur",Jakarta Timur,-6.242414,106.918662
+MER-00771,Thai Spicy Cideng,Thai Cuisine,"Jl. Pemuda No.25, Jakarta Timur",Jakarta Timur,-6.229373,106.9209
+MER-00772,Rooftop Lounge Mampang,Pub,"Jl. Yos Sudarso No.63, Jakarta Utara",Jakarta Utara,-6.110616,106.871518
+MER-00773,Pizza Roma Cideng,,"Jl. Daan Mogot No.200, Jakarta Barat",Jakarta Barat,-6.13883,106.769044
+MER-00774,Tom Yum Sudirman,Thai,"Jl. Menteng Raya No.233, Jakarta Pusat",Jakarta Pusat,-6.211542,106.833653
+MER-00775,Golden Wok Pulogadung,Chinese,"Jl. Hayam Wuruk No.77, Jakarta Pusat",Jakarta Pusat,-6.187449,106.842976
+MER-00776,Morning Brew Cikini,Coffee & Pastry,"Jl. Casablanca No.201, Jakarta Selatan",Jakarta Selatan,-6.249455,106.804228
+MER-00777,Big Bob's Grill Grogol,Western Cuisine,"Jl. DI Panjaitan No.178, Jakarta Timur",Jakarta Timur,-6.201144,106.88124
+MER-00778,Soto Betawi Kuningan,Southeast Asian,"Jl. Sudirman No.32, Jakarta Pusat",Jakarta Pusat,-6.201094,106.849484
+MER-00779,Baker's Daily Kebayoran,Bread Shop,"Jl. Melawai No.169, Jakarta Selatan",Jakarta Selatan,-6.234727,106.811767
+MER-00780,Smokehouse Kemayoran,Steakhouse,"Jl. Rasuna Said No.61, Jakarta Selatan",Jakarta Selatan,-6.27891,106.786541
+MER-00781,Fresh Bread Pulogadung,Boulangerie,"Jl. Gatot Subroto No.141, Jakarta Selatan",Jakarta Selatan,-6.28379,106.817939
+MER-00782,Dim Sum Cempaka Putih,Chinese Restaurant,"Jl. Matraman Raya No.163, Jakarta Timur",Jakarta Timur,-6.246405,106.882626
+MER-00783,Thai Spicy Rawamangun,Thai Restaurant,"Jl. Puri Indah No.7, Jakarta Barat",Jakarta Barat,-6.179318,106.776067
+MER-00784,Rendang Rumah Thamrin,Nasi & Mie,"Jl. Melawai No.38, Jakarta Selatan",Jakarta Selatan,-6.286162,106.835155
+MER-00785,Fresh Bread Cideng,Patisserie,"Jl. DI Panjaitan No.187, Jakarta Timur",Jakarta Timur,-6.208036,106.87781
+MER-00786,The Diner Pancoran,Grill House,"Jl. Boulevard Kelapa Gading No.82, Jakarta Utara",Jakarta Utara,-6.132352,106.887694
+MER-00787,Pad Thai Melawai,Thai Cuisine,"Jl. Boulevard Kelapa Gading No.169, Jakarta Utara",Jakarta Utara,-6.153256,106.8751
+MER-00788,Bingsu Kebayoran,Sweet Shop,"Jl. Yos Sudarso No.91, Jakarta Utara",Jakarta Utara,-6.143705,106.861367
+MER-00789,Jack's Burger Tanah Abang,Western,"Jl. Pantai Indah Kapuk No.217, Jakarta Utara",Jakarta Utara,-6.163583,106.85224
+MER-00790,Nasi Goreng Pak PIK,,"Jl. Daan Mogot No.247, Jakarta Barat",Jakarta Barat,-6.16505,106.758371
+MER-00791,Hong Kong Blok M,Chinese Cuisine,"Jl. Rasuna Said No.183, Jakarta Selatan",Jakarta Selatan,-6.254523,106.835253
+MER-00792,QuickBite Kemayoran,Fast Food,"Jl. Casablanca No.232, Jakarta Selatan",Jakarta Selatan,-6.281388,106.836411
+MER-00793,Tokyo Ramen Cempaka Putih,,"Jl. Fatmawati No.234, Jakarta Selatan",Jakarta Selatan,-6.281271,106.838784
+MER-00794,Bakso Melawai,,"Jl. Cilandak No.56, Jakarta Selatan",Jakarta Selatan,-6.278716,106.824882
+MER-00795,Hong Kong Dharmawangsa,Dim Sum House,"Jl. Gajah Mada No.91, Jakarta Pusat",Jakarta Pusat,-6.216147,106.831921
+MER-00796,Tokyo Ramen Cempaka Putih,Ramen Shop,"Jl. Kemang Raya No.106, Jakarta Selatan",Jakarta Selatan,-6.286415,106.811459
+MER-00797,Gado-Gado Ancol,Rumah Makan,"Jl. Casablanca No.208, Jakarta Selatan",Jakarta Selatan,-6.26963,106.834132
+MER-00798,Rendang Rumah Sudirman,Traditional Indonesian,"Jl. Senopati No.73, Jakarta Selatan",Jakarta Selatan,-6.239269,106.792508
+MER-00799,Soto Betawi Melawai,Warung Makan,"Jl. Pramuka No.141, Jakarta Timur",Jakarta Timur,-6.196024,106.877528
+MER-00800,Morning Brew Cideng,Cafe,"Jl. Thamrin No.40, Jakarta Pusat",Jakarta Pusat,-6.159039,106.851863
+MER-00801,Tom Yum Cempaka Putih,Thai Cuisine,"Jl. Matraman Raya No.73, Jakarta Timur",Jakarta Timur,-6.210754,106.89646
+MER-00802,Dragon Palace Pasar Minggu,Chinese Restaurant,"Jl. Panjang No.171, Jakarta Barat",Jakarta Barat,-6.14645,106.788455
+MER-00803,Sate Khas Fatmawati,Indonesian,"Jl. Raya Bogor No.31, Jakarta Timur",Jakarta Timur,-6.219528,106.908469
+MER-00804,Nasi Goreng Pak Fatmawati,Nasi & Mie,"Jl. Gajah Mada No.180, Jakarta Pusat",Jakarta Pusat,-6.213443,106.828738
+MER-00805,Rendang Rumah Senayan,Southeast Asian,"Jl. Fatmawati No.183, Jakarta Selatan",Jakarta Selatan,-6.275345,106.797433
+MER-00806,Ayam Geprek Grogol,Rumah Makan,"Jl. Cilandak No.48, Jakarta Selatan",Jakarta Selatan,-6.27469,106.816991
+MER-00807,Nasi Goreng Pak Jatinegara,,"Jl. Kyai Tapa No.191, Jakarta Barat",Jakarta Barat,-6.190482,106.750434
+MER-00808,Rendang Rumah PIK,Nasi & Mie,"Jl. Pemuda No.11, Jakarta Timur",Jakarta Timur,-6.247171,106.914955
+MER-00809,Ayam Geprek Tanah Abang,Traditional Indonesian,"Jl. Panjang No.12, Jakarta Barat",Jakarta Barat,-6.138921,106.74092
+MER-00810,Morning Brew Senopati,Specialty Coffee,"Jl. Pramuka No.18, Jakarta Timur",Jakarta Timur,-6.228091,106.91344
+MER-00811,Bakso Pondok Indah,Rumah Makan,"Jl. Senopati No.190, Jakarta Selatan",Jakarta Selatan,-6.234152,106.784248
+MER-00812,Fresh Bread Matraman,Bread Shop,"Jl. Puri Indah No.156, Jakarta Barat",Jakarta Barat,-6.175251,106.775562
+MER-00813,Bella Italia Antasari,European,"Jl. Melawai No.219, Jakarta Selatan",Jakarta Selatan,-6.249035,106.812104
+MER-00814,Soto Betawi Pancoran,Indonesian,"Jl. Thamrin No.70, Jakarta Pusat",Jakarta Pusat,-6.207612,106.857316
+MER-00815,Morning Brew Blok M,,"Jl. Gajah Mada No.84, Jakarta Pusat",Jakarta Pusat,-6.195652,106.84061
+MER-00816,Bakso Setiabudi,Local Cuisine,"Jl. Matraman Raya No.57, Jakarta Timur",Jakarta Timur,-6.217443,106.871024
+MER-00817,The Diner Kelapa Gading,Western Cuisine,"Jl. Kyai Tapa No.223, Jakarta Barat",Jakarta Barat,-6.157013,106.785539
+MER-00818,Bakso Grogol,Traditional Indonesian,"Jl. Boulevard Kelapa Gading No.115, Jakarta Utara",Jakarta Utara,-6.120336,106.879074
+MER-00819,Sate Khas Salemba,Local Cuisine,"Jl. Hayam Wuruk No.242, Jakarta Pusat",Jakarta Pusat,-6.164759,106.815632
+MER-00820,Rendang Rumah Kemayoran,Traditional Indonesian,"Jl. Hayam Wuruk No.233, Jakarta Pusat",Jakarta Pusat,-6.207889,106.829884
+MER-00821,QuickBite Kemayoran,Fast Food,"Jl. Sudirman No.196, Jakarta Pusat",Jakarta Pusat,-6.193461,106.810902
+MER-00822,Nasi Goreng Pak Sudirman,Nasi & Mie,"Jl. Matraman Raya No.219, Jakarta Timur",Jakarta Timur,-6.24862,106.914568
+MER-00823,Bean Lab Tanah Abang,Cafe,"Jl. Melawai No.161, Jakarta Selatan",Jakarta Selatan,-6.282229,106.783953
+MER-00824,K-Street Rawamangun,Grill House,"Jl. Hayam Wuruk No.99, Jakarta Pusat",Jakarta Pusat,-6.16177,106.80574
+MER-00825,QuickBite Dharmawangsa,Burger & Fries,"Jl. Gajah Mada No.92, Jakarta Pusat",Jakarta Pusat,-6.209892,106.810404
+MER-00826,Sweet Dreams Kemayoran,,"Jl. Thamrin No.174, Jakarta Pusat",Jakarta Pusat,-6.190782,106.824391
+MER-00827,Seoul BBQ Pasar Minggu,Korean Restaurant,"Jl. Pemuda No.202, Jakarta Timur",Jakarta Timur,-6.215296,106.926373
+MER-00828,Gado-Gado Melawai,Warung Makan,"Jl. Kyai Tapa No.38, Jakarta Barat",Jakarta Barat,-6.19151,106.754447
+MER-00829,Han Kook Melawai,Grill House,"Jl. Pantai Indah Kapuk No.36, Jakarta Utara",Jakarta Utara,-6.143963,106.88151
+MER-00830,The Diner Lebak Bulus,Western Cuisine,"Jl. Gatot Subroto No.149, Jakarta Selatan",Jakarta Selatan,-6.259327,106.794407
+MER-00831,QuickBite Kebayoran,Quick Service,"Jl. Fatmawati No.143, Jakarta Selatan",Jakarta Selatan,-6.279303,106.831636
+MER-00832,Oppa Chicken Pancoran,Korean Restaurant,"Jl. Cilandak No.63, Jakarta Selatan",Jakarta Selatan,-6.241385,106.81369
+MER-00833,Fresh Bread Cideng,Patisserie,"Jl. Daan Mogot No.180, Jakarta Barat",Jakarta Barat,-6.156533,106.754283
+MER-00834,Daily Coffee Cilandak,Coffee & Pastry,"Jl. Cilandak No.39, Jakarta Selatan",Jakarta Selatan,-6.28676,106.785224
+MER-00835,Chicken Rush Melawai,Fast Food,"Jl. Rasuna Said No.74, Jakarta Selatan",Jakarta Selatan,-6.27126,106.827484
+MER-00836,Burger Joint Sudirman,Burger & Fries,"Jl. Pondok Indah No.142, Jakarta Selatan",Jakarta Selatan,-6.266083,106.837495
+MER-00837,Fry Lab Kuningan,QSR,"Jl. Kemang Raya No.191, Jakarta Selatan",Jakarta Selatan,-6.285984,106.803254
+MER-00838,Morning Brew Kemayoran,Coffee & Pastry,"Jl. Kyai Tapa No.168, Jakarta Barat",Jakarta Barat,-6.149306,106.756906
+MER-00839,Thai Spicy Pasar Minggu,Thai Restaurant,"Jl. Gajah Mada No.8, Jakarta Pusat",Jakarta Pusat,-6.211831,106.840491
+MER-00840,Trattoria Fatmawati,Trattoria,"Jl. Pantai Indah Kapuk No.22, Jakarta Utara",Jakarta Utara,-6.130497,106.835842
+MER-00841,Golden Wok Setiabudi,Chinese Restaurant,"Jl. Gajah Mada No.246, Jakarta Pusat",Jakarta Pusat,-6.197984,106.863132
+MER-00842,Sushi Yama Kelapa Gading,Japanese,"Jl. Casablanca No.207, Jakarta Selatan",Jakarta Selatan,-6.237709,106.810815
+MER-00843,Bella Italia Pancoran,Italian Restaurant,"Jl. Menteng Raya No.24, Jakarta Pusat",Jakarta Pusat,-6.175558,106.809025
+MER-00844,Thai Spicy Antasari,Southeast Asian,"Jl. Fatmawati No.115, Jakarta Selatan",Jakarta Selatan,-6.247777,106.819684
+MER-00845,Baker's Daily Cideng,Boulangerie,"Jl. Thamrin No.146, Jakarta Pusat",Jakarta Pusat,-6.156679,106.840713
+MER-00846,Espresso House Jatinegara,Coffee Shop,"Jl. Pramuka No.25, Jakarta Timur",Jakarta Timur,-6.207157,106.924108
+MER-00847,Kimchi House Senopati,,"Jl. Gajah Mada No.122, Jakarta Pusat",Jakarta Pusat,-6.205749,106.850616
+MER-00848,Warung Cawang,Warung Makan,"Jl. Cilandak No.220, Jakarta Selatan",Jakarta Selatan,-6.269692,106.797798
+MER-00849,Trattoria Bendungan Hilir,European,"Jl. Menteng Raya No.11, Jakarta Pusat",Jakarta Pusat,-6.191708,106.831306
+MER-00850,QuickBite Cilandak,Fried Chicken,"Jl. Pramuka No.219, Jakarta Timur",Jakarta Timur,-6.23756,106.879892
+MER-00851,Han Kook Lebak Bulus,Korean Grill,"Jl. Pemuda No.235, Jakarta Timur",Jakarta Timur,-6.227109,106.875549
+MER-00852,Kimchi House Mampang,Korean,"Jl. Pramuka No.30, Jakarta Timur",Jakarta Timur,-6.225822,106.912537
+MER-00853,Soto Betawi Setiabudi,Traditional Indonesian,"Jl. Pluit Raya No.240, Jakarta Utara",Jakarta Utara,-6.109531,106.880352
+MER-00854,Nasi Goreng Pak Cempaka Putih,Local Cuisine,"Jl. Gatot Subroto No.71, Jakarta Selatan",Jakarta Selatan,-6.253359,106.785615
+MER-00855,Sushi Yama Tebet,Sushi Bar,"Jl. Hayam Wuruk No.88, Jakarta Pusat",Jakarta Pusat,-6.213275,106.857997
+MER-00856,Donburi Lebak Bulus,Ramen Shop,"Jl. Pantai Indah Kapuk No.234, Jakarta Utara",Jakarta Utara,-6.159159,106.875701
+MER-00857,Bean Lab Thamrin,Coffee & Pastry,"Jl. Kyai Tapa No.4, Jakarta Barat",Jakarta Barat,-6.163591,106.737477
+MER-00858,Bulgogi Bros Rawamangun,K-Food,"Jl. Kemang Raya No.163, Jakarta Selatan",Jakarta Selatan,-6.248163,106.839894
+MER-00859,Croissant Lebak Bulus,,"Jl. Panjang No.244, Jakarta Barat",Jakarta Barat,-6.162243,106.741768
+MER-00860,Daily Coffee Tanah Abang,Coffee & Pastry,"Jl. Pramuka No.167, Jakarta Timur",Jakarta Timur,-6.224875,106.922465
+MER-00861,The Diner Mampang,Western Cuisine,"Jl. Thamrin No.142, Jakarta Pusat",Jakarta Pusat,-6.205951,106.830003
+MER-00862,Pad Thai Pancoran,Thai,"Jl. Daan Mogot No.23, Jakarta Barat",Jakarta Barat,-6.142026,106.783153
+MER-00863,Sweet Dreams Dharmawangsa,Dessert,"Jl. Puri Indah No.129, Jakarta Barat",Jakarta Barat,-6.16087,106.761484
+MER-00864,Gado-Gado Jatinegara,Rumah Makan,"Jl. Gatot Subroto No.90, Jakarta Selatan",Jakarta Selatan,-6.279766,106.808774
+MER-00865,Fry Lab Sudirman,Burger & Fries,"Jl. Matraman Raya No.226, Jakarta Timur",Jakarta Timur,-6.208068,106.900854
+MER-00866,Sushi Yama Sudirman,,"Jl. Raya Bogor No.203, Jakarta Timur",Jakarta Timur,-6.230127,106.871332
+MER-00867,Oppa Chicken Cawang,,"Jl. Raya Bogor No.158, Jakarta Timur",Jakarta Timur,-6.24049,106.928809
+MER-00868,Izakaya Cideng,Japanese,"Jl. DI Panjaitan No.41, Jakarta Timur",Jakarta Timur,-6.244577,106.92465
+MER-00869,Rendang Rumah Tebet,Indonesian,"Jl. Daan Mogot No.24, Jakarta Barat",Jakarta Barat,-6.188757,106.748144
+MER-00870,Warung Cawang,Southeast Asian,"Jl. Pondok Indah No.163, Jakarta Selatan",Jakarta Selatan,-6.24696,106.788433
+MER-00871,Soto Betawi Lebak Bulus,Indonesian,"Jl. Puri Indah No.198, Jakarta Barat",Jakarta Barat,-6.154721,106.777226
+MER-00872,Dolce Kelapa Gading,Italian Restaurant,"Jl. Thamrin No.73, Jakarta Pusat",Jakarta Pusat,-6.160868,106.811661
+MER-00873,Sushi Yama Ancol,Japanese Restaurant,"Jl. Hayam Wuruk No.246, Jakarta Pusat",Jakarta Pusat,-6.168774,106.829125
+MER-00874,Han Kook Kuningan,Korean,"Jl. Kebon Sirih No.162, Jakarta Pusat",Jakarta Pusat,-6.215892,106.815021
+MER-00875,K-Street Kemayoran,K-Food,"Jl. Gatot Subroto No.50, Jakarta Selatan",Jakarta Selatan,-6.281997,106.825102
+MER-00876,Ayam Geprek Blok M,Warung Makan,"Jl. Pemuda No.187, Jakarta Timur",Jakarta Timur,-6.25323,106.878714
+MER-00877,Pastry Lab Jatinegara,Bread Shop,"Jl. Yos Sudarso No.132, Jakarta Utara",Jakarta Utara,-6.140777,106.882441
+MER-00878,Latte Art Pasar Minggu,Coffee Shop,"Jl. DI Panjaitan No.80, Jakarta Timur",Jakarta Timur,-6.248826,106.917989
+MER-00879,Kopi Kemayoran,Specialty Coffee,"Jl. Letjen S. Parman No.99, Jakarta Barat",Jakarta Barat,-6.149346,106.766175
+MER-00880,Kopi Kuningan,,"Jl. Pramuka No.76, Jakarta Timur",Jakarta Timur,-6.197514,106.885584
+MER-00881,Tokyo Ramen Cikini,Sushi Bar,"Jl. Panjang No.19, Jakarta Barat",Jakarta Barat,-6.172537,106.739955
+MER-00882,Ayam Geprek Sudirman,Indonesian Restaurant,"Jl. Kyai Tapa No.231, Jakarta Barat",Jakarta Barat,-6.185474,106.762848
+MER-00883,Big Bob's Grill Jatinegara,Grill House,"Jl. Gatot Subroto No.147, Jakarta Selatan",Jakarta Selatan,-6.255026,106.833602
+MER-00884,Bean Lab Fatmawati,Coffee & Pastry,"Jl. Gajah Mada No.108, Jakarta Pusat",Jakarta Pusat,-6.186864,106.807108
+MER-00885,Udon Ichi Menteng,Japanese Restaurant,"Jl. Rasuna Said No.234, Jakarta Selatan",Jakarta Selatan,-6.25288,106.831966
+MER-00886,Morning Brew Kemang,Coffee & Tea,"Jl. Cilandak No.186, Jakarta Selatan",Jakarta Selatan,-6.290524,106.808794
+MER-00887,Smokehouse Dharmawangsa,Western,"Jl. Yos Sudarso No.127, Jakarta Utara",Jakarta Utara,-6.1452,106.875687
+MER-00888,Soto Betawi Senayan,Nasi & Mie,"Jl. Puri Indah No.58, Jakarta Barat",Jakarta Barat,-6.189976,106.788412
+MER-00889,Morning Brew Sudirman,Coffee & Tea,"Jl. Pemuda No.29, Jakarta Timur",Jakarta Timur,-6.202919,106.885981
+MER-00890,Pasta Bar Pasar Minggu,Italian Restaurant,"Jl. Pluit Raya No.33, Jakarta Utara",Jakarta Utara,-6.113308,106.868907
+MER-00891,Croissant Matraman,Pastry Shop,"Jl. Yos Sudarso No.170, Jakarta Utara",Jakarta Utara,-6.137494,106.848331
+MER-00892,Bakso Pancoran,Nasi & Mie,"Jl. Panjang No.169, Jakarta Barat",Jakarta Barat,-6.177119,106.778933
+MER-00893,Dragon Palace Sudirman,,"Jl. Yos Sudarso No.27, Jakarta Utara",Jakarta Utara,-6.140711,106.857004
+MER-00894,Espresso House Salemba,Coffee & Pastry,"Jl. Boulevard Kelapa Gading No.57, Jakarta Utara",Jakarta Utara,-6.117932,106.84024
+MER-00895,Mala House Fatmawati,Hong Kong Style,"Jl. Kebon Sirih No.166, Jakarta Pusat",Jakarta Pusat,-6.191114,106.845476
+MER-00896,Gado-Gado Cikini,,"Jl. Fatmawati No.68, Jakarta Selatan",Jakarta Selatan,-6.262926,106.812453
+MER-00897,Rendang Rumah Antasari,Traditional Indonesian,"Jl. Rasuna Said No.167, Jakarta Selatan",Jakarta Selatan,-6.26502,106.802787
+MER-00898,Bakso Pondok Labu,Indonesian Restaurant,"Jl. Pluit Raya No.166, Jakarta Utara",Jakarta Utara,-6.137683,106.840451
+MER-00899,Bakso Kebayoran,Traditional Indonesian,"Jl. Kebon Sirih No.180, Jakarta Pusat",Jakarta Pusat,-6.210438,106.817888
+MER-00900,Latte Art Pasar Minggu,,"Jl. Melawai No.181, Jakarta Selatan",Jakarta Selatan,-6.281238,106.792815
+MER-00901,Churros Tanah Abang,Ice Cream,"Jl. Pemuda No.43, Jakarta Timur",Jakarta Timur,-6.213724,106.880614
+MER-00902,Dim Sum Menteng,Chinese Cuisine,"Jl. Menteng Raya No.195, Jakarta Pusat",Jakarta Pusat,-6.20067,106.808919
+MER-00903,Soto Betawi Melawai,,"Jl. Gajah Mada No.214, Jakarta Pusat",Jakarta Pusat,-6.167364,106.838336
+MER-00904,Bakso Mampang,Southeast Asian,"Jl. Melawai No.170, Jakarta Selatan",Jakarta Selatan,-6.247411,106.839988
+MER-00905,Kimchi House Pondok Labu,Grill House,"Jl. Letjen S. Parman No.124, Jakarta Barat",Jakarta Barat,-6.146883,106.78293
+MER-00906,Rendang Rumah Pluit,Traditional Indonesian,"Jl. Boulevard Kelapa Gading No.148, Jakarta Utara",Jakarta Utara,-6.160302,106.86377
+MER-00907,Rendang Rumah Kelapa Gading,Warung Makan,"Jl. Pramuka No.246, Jakarta Timur",Jakarta Timur,-6.202371,106.911128
+MER-00908,Kopi Pulogadung,Coffee & Tea,"Jl. Rasuna Said No.149, Jakarta Selatan",Jakarta Selatan,-6.231863,106.799159
+MER-00909,Morning Brew Senopati,Specialty Coffee,"Jl. Kemang Raya No.120, Jakarta Selatan",Jakarta Selatan,-6.233332,106.810536
+MER-00910,Tom Yum Dharmawangsa,,"Jl. Rasuna Said No.56, Jakarta Selatan",Jakarta Selatan,-6.243513,106.781536
+MER-00911,Ayam Geprek Sudirman,,"Jl. Kebon Sirih No.171, Jakarta Pusat",Jakarta Pusat,-6.208237,106.857023
+MER-00912,Soto Betawi Cempaka Putih,Traditional Indonesian,"Jl. Yos Sudarso No.239, Jakarta Utara",Jakarta Utara,-6.163957,106.847031
+MER-00913,Bakso Tanah Abang,Nasi & Mie,"Jl. Pantai Indah Kapuk No.206, Jakarta Utara",Jakarta Utara,-6.158402,106.860049
+MER-00914,Bakso PIK,Traditional Indonesian,"Jl. Kemang Raya No.97, Jakarta Selatan",Jakarta Selatan,-6.235873,106.808269
+MER-00915,Chicken Rush Salemba,Fast Food,"Jl. Pondok Indah No.8, Jakarta Selatan",Jakarta Selatan,-6.263507,106.838287
+MER-00916,Chicken Rush Kebayoran,Fried Chicken,"Jl. Danau Sunter Utara No.225, Jakarta Utara",Jakarta Utara,-6.146413,106.871153
+MER-00917,Hong Kong Salemba,,"Jl. Daan Mogot No.86, Jakarta Barat",Jakarta Barat,-6.19322,106.74501
+MER-00918,Seoul BBQ Blok M,Korean Restaurant,"Jl. Daan Mogot No.180, Jakarta Barat",Jakarta Barat,-6.157835,106.773162
+MER-00919,Sate Khas Tanah Abang,Indonesian Restaurant,"Jl. Yos Sudarso No.160, Jakarta Utara",Jakarta Utara,-6.125651,106.890092
+MER-00920,Morning Brew Kelapa Gading,Cafe,"Jl. Kebon Sirih No.114, Jakarta Pusat",Jakarta Pusat,-6.210284,106.805779
+MER-00921,Soto Betawi Lebak Bulus,Indonesian,"Jl. Gatot Subroto No.111, Jakarta Selatan",Jakarta Selatan,-6.254734,106.806948
+MER-00922,Thai Spicy Antasari,,"Jl. Kyai Tapa No.75, Jakarta Barat",Jakarta Barat,-6.165499,106.75737
+MER-00923,Izakaya Kelapa Gading,Ramen Shop,"Jl. Melawai No.118, Jakarta Selatan",Jakarta Selatan,-6.24269,106.78949
+MER-00924,Pad Thai Kemang,Thai Restaurant,"Jl. Pramuka No.71, Jakarta Timur",Jakarta Timur,-6.233716,106.878758
+MER-00925,Dim Sum Pondok Labu,Dim Sum House,"Jl. Fatmawati No.168, Jakarta Selatan",Jakarta Selatan,-6.287734,106.819955
+MER-00926,Bakso Ancol,,"Jl. Hayam Wuruk No.156, Jakarta Pusat",Jakarta Pusat,-6.16614,106.833325
+MER-00927,Ayam Geprek Pulogadung,Warung Makan,"Jl. Pramuka No.18, Jakarta Timur",Jakarta Timur,-6.234114,106.907449
+MER-00928,Mala House Setiabudi,Chinese Restaurant,"Jl. Panjang No.27, Jakarta Barat",Jakarta Barat,-6.13942,106.777313
+MER-00929,Baker's Daily Senayan,Patisserie,"Jl. Pluit Raya No.114, Jakarta Utara",Jakarta Utara,-6.161932,106.884708
+MER-00930,Warung Matraman,Rumah Makan,"Jl. Senopati No.51, Jakarta Selatan",Jakarta Selatan,-6.232168,106.815027
+MER-00931,Fry Lab Pondok Labu,Quick Service,"Jl. Daan Mogot No.53, Jakarta Barat",Jakarta Barat,-6.186762,106.763726
+MER-00932,Udon Ichi Thamrin,Japanese Restaurant,"Jl. Casablanca No.128, Jakarta Selatan",Jakarta Selatan,-6.250558,106.838065
+MER-00933,Udon Ichi Jatinegara,Japanese,"Jl. Pramuka No.224, Jakarta Timur",Jakarta Timur,-6.206904,106.896733
+MER-00934,Gado-Gado Pluit,Traditional Indonesian,"Jl. Gajah Mada No.237, Jakarta Pusat",Jakarta Pusat,-6.184068,106.805653
+MER-00935,Espresso House Thamrin,Cafe,"Jl. Casablanca No.80, Jakarta Selatan",Jakarta Selatan,-6.277016,106.811666
+MER-00936,Trattoria Menteng,,"Jl. Sudirman No.36, Jakarta Pusat",Jakarta Pusat,-6.191216,106.816331
+MER-00937,Bangkok Kitchen Kebayoran,Thai Cuisine,"Jl. Rasuna Said No.89, Jakarta Selatan",Jakarta Selatan,-6.24316,106.814431
+MER-00938,Gado-Gado Pondok Indah,Traditional Indonesian,"Jl. Casablanca No.58, Jakarta Selatan",Jakarta Selatan,-6.288996,106.782736
+MER-00939,Bean Lab Menteng,Coffee & Pastry,"Jl. Raya Bogor No.137, Jakarta Timur",Jakarta Timur,-6.253419,106.917309
+MER-00940,Big Bob's Grill Cideng,Grill House,"Jl. Puri Indah No.141, Jakarta Barat",Jakarta Barat,-6.156574,106.754583
+MER-00941,Bingsu Fatmawati,Ice Cream,"Jl. Gatot Subroto No.151, Jakarta Selatan",Jakarta Selatan,-6.236416,106.79489
+MER-00942,Morning Brew Kemang,Coffee & Pastry,"Jl. Pemuda No.20, Jakarta Timur",Jakarta Timur,-6.254106,106.91359
+MER-00943,Bulgogi Bros Kebayoran,Korean BBQ,"Jl. Pemuda No.169, Jakarta Timur",Jakarta Timur,-6.247217,106.894269
+MER-00944,Chicken Rush Pluit,Quick Service,"Jl. Casablanca No.75, Jakarta Selatan",Jakarta Selatan,-6.273337,106.802616
+MER-00945,QuickBite Senayan,Quick Service,"Jl. Pondok Indah No.72, Jakarta Selatan",Jakarta Selatan,-6.26685,106.837634
+MER-00946,K-Street Grogol,Grill House,"Jl. Sudirman No.61, Jakarta Pusat",Jakarta Pusat,-6.173005,106.851576
+MER-00947,Nasi Goreng Pak Pasar Minggu,Traditional Indonesian,"Jl. Gatot Subroto No.16, Jakarta Selatan",Jakarta Selatan,-6.268449,106.830231
+MER-00948,Tokyo Ramen Pluit,Izakaya,"Jl. Sudirman No.170, Jakarta Pusat",Jakarta Pusat,-6.205434,106.830165
+MER-00949,Bingsu Tebet,Ice Cream,"Jl. Kyai Tapa No.186, Jakarta Barat",Jakarta Barat,-6.162842,106.774235
+MER-00950,Sweet Dreams Kelapa Gading,Sweet Shop,"Jl. Pantai Indah Kapuk No.220, Jakarta Utara",Jakarta Utara,-6.111652,106.889848
+MER-00951,The Diner Tebet,American Diner,"Jl. Thamrin No.34, Jakarta Pusat",Jakarta Pusat,-6.193623,106.849038
+MER-00952,Soto Betawi Lebak Bulus,Local Cuisine,"Jl. Melawai No.93, Jakarta Selatan",Jakarta Selatan,-6.257235,106.782916
+MER-00953,Bella Italia Tanah Abang,Pasta Bar,"Jl. Boulevard Kelapa Gading No.114, Jakarta Utara",Jakarta Utara,-6.149541,106.849771
+MER-00954,Izakaya Jatinegara,Sushi Bar,"Jl. Gajah Mada No.230, Jakarta Pusat",Jakarta Pusat,-6.212985,106.86063
+MER-00955,Bakso Tebet,Indonesian,"Jl. Raya Bogor No.224, Jakarta Timur",Jakarta Timur,-6.247367,106.90822
+MER-00956,Gado-Gado Pulogadung,Southeast Asian,"Jl. Melawai No.250, Jakarta Selatan",Jakarta Selatan,-6.258296,106.794277
+MER-00957,Warung Thamrin,Traditional Indonesian,"Jl. Senopati No.84, Jakarta Selatan",Jakarta Selatan,-6.284709,106.785247
+MER-00958,Seoul BBQ Setiabudi,Korean BBQ,"Jl. Pantai Indah Kapuk No.121, Jakarta Utara",Jakarta Utara,-6.147183,106.892406
+MER-00959,Sate Khas Pulogadung,,"Jl. Kebon Sirih No.184, Jakarta Pusat",Jakarta Pusat,-6.179958,106.852782
+MER-00960,Churros Pulogadung,Dessert Shop,"Jl. Menteng Raya No.21, Jakarta Pusat",Jakarta Pusat,-6.172924,106.827165
+MER-00961,Pasta Bar Lebak Bulus,Trattoria,"Jl. Daan Mogot No.156, Jakarta Barat",Jakarta Barat,-6.147444,106.760465
+MER-00962,Bakso Kebayoran,Indonesian Restaurant,"Jl. Senopati No.117, Jakarta Selatan",Jakarta Selatan,-6.24356,106.839248
+MER-00963,Croissant Bendungan Hilir,Bread Shop,"Jl. Gajah Mada No.168, Jakarta Pusat",Jakarta Pusat,-6.182873,106.808887
+MER-00964,Jack's Burger Lebak Bulus,,"Jl. Menteng Raya No.36, Jakarta Pusat",Jakarta Pusat,-6.161944,106.844746
+MER-00965,Rendang Rumah Antasari,Rumah Makan,"Jl. Raya Bogor No.231, Jakarta Timur",Jakarta Timur,-6.220439,106.908358
+MER-00966,Gado-Gado Kelapa Gading,Warung Makan,"Jl. Menteng Raya No.43, Jakarta Pusat",Jakarta Pusat,-6.214455,106.830185
+MER-00967,Donburi Senopati,,"Jl. Gajah Mada No.31, Jakarta Pusat",Jakarta Pusat,-6.174684,106.818786
+MER-00968,Bella Italia Thamrin,,"Jl. Puri Indah No.162, Jakarta Barat",Jakarta Barat,-6.177003,106.755734
+MER-00969,Burger Joint Pulogadung,,"Jl. Pemuda No.152, Jakarta Timur",Jakarta Timur,-6.198803,106.875427
+MER-00970,Udon Ichi Pulogadung,Izakaya,"Jl. Pondok Indah No.88, Jakarta Selatan",Jakarta Selatan,-6.24512,106.794536
+MER-00971,Kopi Pancoran,,"Jl. Kemang Raya No.11, Jakarta Selatan",Jakarta Selatan,-6.272385,106.791305
+MER-00972,Sakura Cawang,Ramen Shop,"Jl. Raya Bogor No.31, Jakarta Timur",Jakarta Timur,-6.236138,106.891241
+MER-00973,Kimchi House Kemayoran,,"Jl. Panjang No.25, Jakarta Barat",Jakarta Barat,-6.142829,106.768786
+MER-00974,Bella Italia Lebak Bulus,Trattoria,"Jl. Rasuna Said No.95, Jakarta Selatan",Jakarta Selatan,-6.279792,106.809902
+MER-00975,Gado-Gado Pancoran,Rumah Makan,"Jl. Pemuda No.114, Jakarta Timur",Jakarta Timur,-6.212025,106.925551
+MER-00976,Rooftop Lounge Blok M,Pub,"Jl. Raya Bogor No.187, Jakarta Timur",Jakarta Timur,-6.206782,106.915057
+MER-00977,Dolce Thamrin,,"Jl. Puri Indah No.26, Jakarta Barat",Jakarta Barat,-6.179411,106.784284
+MER-00978,Big Bob's Grill Sudirman,Grill House,"Jl. Thamrin No.173, Jakarta Pusat",Jakarta Pusat,-6.181319,106.856627
+MER-00979,Chicken Rush Pondok Indah,Fried Chicken,"Jl. Menteng Raya No.192, Jakarta Pusat",Jakarta Pusat,-6.163948,106.86135
+MER-00980,Sate Khas Kemang,,"Jl. Senopati No.164, Jakarta Selatan",Jakarta Selatan,-6.275716,106.803417
+MER-00981,Oppa Chicken Pancoran,Korean BBQ,"Jl. Danau Sunter Utara No.92, Jakarta Utara",Jakarta Utara,-6.139387,106.871702
+MER-00982,Espresso House Rawamangun,Coffee & Tea,"Jl. Pemuda No.46, Jakarta Timur",Jakarta Timur,-6.235476,106.910145
+MER-00983,Sushi Yama Melawai,Izakaya,"Jl. Panjang No.8, Jakarta Barat",Jakarta Barat,-6.146459,106.764864
+MER-00984,Udon Ichi Setiabudi,Japanese,"Jl. Pondok Indah No.109, Jakarta Selatan",Jakarta Selatan,-6.272443,106.804083
+MER-00985,Seoul BBQ Tanah Abang,Korean,"Jl. Casablanca No.53, Jakarta Selatan",Jakarta Selatan,-6.278221,106.833137
+MER-00986,K-Street Lebak Bulus,Korean BBQ,"Jl. Sudirman No.200, Jakarta Pusat",Jakarta Pusat,-6.173166,106.852445
+MER-00987,Thai Spicy Bendungan Hilir,Southeast Asian,"Jl. Cilandak No.221, Jakarta Selatan",Jakarta Selatan,-6.232387,106.830889
+MER-00988,Oppa Chicken Jatinegara,Korean,"Jl. Daan Mogot No.194, Jakarta Barat",Jakarta Barat,-6.141899,106.730964
+MER-00989,Bakso Tanah Abang,Traditional Indonesian,"Jl. Sudirman No.70, Jakarta Pusat",Jakarta Pusat,-6.178607,106.845584
+MER-00990,Chicken Rush PIK,,"Jl. Menteng Raya No.107, Jakarta Pusat",Jakarta Pusat,-6.186229,106.846509
+MER-00991,Rendang Rumah Fatmawati,Local Cuisine,"Jl. Puri Indah No.132, Jakarta Barat",Jakarta Barat,-6.146742,106.775886
+MER-00992,Gado-Gado Cideng,,"Jl. Casablanca No.72, Jakarta Selatan",Jakarta Selatan,-6.285916,106.838613
+MER-00993,Rooftop Lounge Ancol,Bar,"Jl. Pramuka No.58, Jakarta Timur",Jakarta Timur,-6.209238,106.913275
+MER-00994,Udon Ichi Kelapa Gading,Japanese Restaurant,"Jl. Pluit Raya No.25, Jakarta Utara",Jakarta Utara,-6.148854,106.882481
+MER-00995,Sate Khas Ancol,Rumah Makan,"Jl. Danau Sunter Utara No.195, Jakarta Utara",Jakarta Utara,-6.140389,106.877282
+MER-00996,Oppa Chicken Kemang,,"Jl. Rasuna Said No.69, Jakarta Selatan",Jakarta Selatan,-6.257581,106.804992
+MER-00997,Dragon Palace Setiabudi,Noodle House,"Jl. Gatot Subroto No.236, Jakarta Selatan",Jakarta Selatan,-6.26252,106.813888
+MER-00998,Warung Kuningan,,"Jl. Hayam Wuruk No.127, Jakarta Pusat",Jakarta Pusat,-6.164315,106.81112
+MER-00999,Steak Factory Sudirman,American Diner,"Jl. Melawai No.134, Jakarta Selatan",Jakarta Selatan,-6.265371,106.798253
+MER-01000,Bulgogi Bros Grogol,Korean Restaurant,"Jl. Letjen S. Parman No.65, Jakarta Barat",Jakarta Barat,-6.14118,106.751075
